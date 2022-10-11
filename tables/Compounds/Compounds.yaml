@@ -1,0 +1,590 @@
+-
+    Element: Hydrogen
+    Symbol: H
+    Atomic-Number: '1'
+    Weight: '40,796'
+-
+    Element: Helium
+    Symbol: He
+    Atomic-Number: '2'
+    Weight: '2'
+-
+    Element: Lithium
+    Symbol: Li
+    Atomic-Number: '3'
+    Weight: '169'
+-
+    Element: Beryllium
+    Symbol: Be
+    Atomic-Number: '4'
+    Weight: '42'
+-
+    Element: Boron
+    Symbol: B
+    Atomic-Number: '5'
+    Weight: '1,065'
+-
+    Element: Carbon
+    Symbol: C
+    Atomic-Number: '6'
+    Weight: '40,112'
+-
+    Element: Nitrogen
+    Symbol: 'N'
+    Atomic-Number: '7'
+    Weight: '20,185'
+-
+    Element: Oxygen
+    Symbol: O
+    Atomic-Number: '8'
+    Weight: '32,620'
+-
+    Element: Fluorine
+    Symbol: F
+    Atomic-Number: '9'
+    Weight: '3,865'
+-
+    Element: Neon
+    Symbol: Ne
+    Atomic-Number: '10'
+    Weight: '2'
+-
+    Element: Sodium
+    Symbol: Na
+    Atomic-Number: '11'
+    Weight: '803'
+-
+    Element: Magnesium
+    Symbol: Mg
+    Atomic-Number: '12'
+    Weight: '303'
+-
+    Element: Aluminium
+    Symbol: Al
+    Atomic-Number: '13'
+    Weight: '159'
+-
+    Element: Silicon
+    Symbol: Si
+    Atomic-Number: '14'
+    Weight: '1,055'
+-
+    Element: Phosphorus
+    Symbol: P
+    Atomic-Number: '15'
+    Weight: '2,961'
+-
+    Element: Sulfur
+    Symbol: S
+    Atomic-Number: '16'
+    Weight: '5,831'
+-
+    Element: Chlorine
+    Symbol: Cl
+    Atomic-Number: '17'
+    Weight: '6,109'
+-
+    Element: Argon
+    Symbol: Ar
+    Atomic-Number: '18'
+    Weight: '2'
+-
+    Element: Potassium
+    Symbol: K
+    Atomic-Number: '19'
+    Weight: '348'
+-
+    Element: Calcium
+    Symbol: Ca
+    Atomic-Number: '20'
+    Weight: '143'
+-
+    Element: Scandium
+    Symbol: Sc
+    Atomic-Number: '21'
+    Weight: '28'
+-
+    Element: Titanium
+    Symbol: Ti
+    Atomic-Number: '22'
+    Weight: '106'
+-
+    Element: Vanadium
+    Symbol: V
+    Atomic-Number: '23'
+    Weight: '112'
+-
+    Element: Chromium
+    Symbol: Cr
+    Atomic-Number: '24'
+    Weight: '166'
+-
+    Element: Manganese
+    Symbol: Mn
+    Atomic-Number: '25'
+    Weight: '89'
+-
+    Element: Iron
+    Symbol: Fe
+    Atomic-Number: '26'
+    Weight: '332'
+-
+    Element: Cobalt
+    Symbol: Co
+    Atomic-Number: '27'
+    Weight: '182'
+-
+    Element: Nickel
+    Symbol: Ni
+    Atomic-Number: '28'
+    Weight: '117'
+-
+    Element: Copper
+    Symbol: Cu
+    Atomic-Number: '29'
+    Weight: '191'
+-
+    Element: Zinc
+    Symbol: Zn
+    Atomic-Number: '30'
+    Weight: '291'
+-
+    Element: Gallium
+    Symbol: Ga
+    Atomic-Number: '31'
+    Weight: '41'
+-
+    Element: Germanium
+    Symbol: Ge
+    Atomic-Number: '32'
+    Weight: '73'
+-
+    Element: Arsenic
+    Symbol: As
+    Atomic-Number: '33'
+    Weight: '140'
+-
+    Element: Selenium
+    Symbol: Se
+    Atomic-Number: '34'
+    Weight: '234'
+-
+    Element: Bromine
+    Symbol: Br
+    Atomic-Number: '35'
+    Weight: '2,811'
+-
+    Element: Krypton
+    Symbol: Kr
+    Atomic-Number: '36'
+    Weight: '4'
+-
+    Element: Rubidium
+    Symbol: Rb
+    Atomic-Number: '37'
+    Weight: '25'
+-
+    Element: Strontium
+    Symbol: Sr
+    Atomic-Number: '38'
+    Weight: '50'
+-
+    Element: Yttrium
+    Symbol: 'Y'
+    Atomic-Number: '39'
+    Weight: '43'
+-
+    Element: Zirconium
+    Symbol: Zr
+    Atomic-Number: '40'
+    Weight: '102'
+-
+    Element: Niobium
+    Symbol: Nb
+    Atomic-Number: '41'
+    Weight: '52'
+-
+    Element: Molybdenum
+    Symbol: Mo
+    Atomic-Number: '42'
+    Weight: '81'
+-
+    Element: Technetium
+    Symbol: Tc
+    Atomic-Number: '43'
+    Weight: '4'
+-
+    Element: Ruthenium
+    Symbol: Ru
+    Atomic-Number: '44'
+    Weight: '76'
+-
+    Element: Rhodium
+    Symbol: Rh
+    Atomic-Number: '45'
+    Weight: '83'
+-
+    Element: Palladium
+    Symbol: Pd
+    Atomic-Number: '46'
+    Weight: '87'
+-
+    Element: Silver
+    Symbol: Ag
+    Atomic-Number: '47'
+    Weight: '77'
+-
+    Element: Cadmium
+    Symbol: Cd
+    Atomic-Number: '48'
+    Weight: '79'
+-
+    Element: Indium
+    Symbol: In
+    Atomic-Number: '49'
+    Weight: '36'
+-
+    Element: Tin
+    Symbol: Sn
+    Atomic-Number: '50'
+    Weight: '163'
+-
+    Element: Antimony
+    Symbol: Sb
+    Atomic-Number: '51'
+    Weight: '102'
+-
+    Element: Tellurium
+    Symbol: Te
+    Atomic-Number: '52'
+    Weight: '89'
+-
+    Element: Iodine
+    Symbol: I
+    Atomic-Number: '53'
+    Weight: '872'
+-
+    Element: Xenon
+    Symbol: Xe
+    Atomic-Number: '54'
+    Weight: '17'
+-
+    Element: Caesium
+    Symbol: Cs
+    Atomic-Number: '55'
+    Weight: '45'
+-
+    Element: Barium
+    Symbol: Ba
+    Atomic-Number: '56'
+    Weight: '140'
+-
+    Element: Lanthanum
+    Symbol: La
+    Atomic-Number: '57'
+    Weight: '41'
+-
+    Element: Cerium
+    Symbol: Ce
+    Atomic-Number: '58'
+    Weight: '55'
+-
+    Element: Praseodymium
+    Symbol: Pr
+    Atomic-Number: '59'
+    Weight: '44'
+-
+    Element: Neodymium
+    Symbol: Nd
+    Atomic-Number: '60'
+    Weight: '38'
+-
+    Element: Promethium
+    Symbol: Pm
+    Atomic-Number: '61'
+    Weight: '5'
+-
+    Element: Samarium
+    Symbol: Sm
+    Atomic-Number: '62'
+    Weight: '36'
+-
+    Element: Europium
+    Symbol: Eu
+    Atomic-Number: '63'
+    Weight: '43'
+-
+    Element: Gadolinium
+    Symbol: Gd
+    Atomic-Number: '64'
+    Weight: '44'
+-
+    Element: Terbium
+    Symbol: Tb
+    Atomic-Number: '65'
+    Weight: '27'
+-
+    Element: Dysprosium
+    Symbol: Dy
+    Atomic-Number: '66'
+    Weight: '31'
+-
+    Element: Holmium
+    Symbol: Ho
+    Atomic-Number: '67'
+    Weight: '25'
+-
+    Element: Erbium
+    Symbol: Er
+    Atomic-Number: '68'
+    Weight: '37'
+-
+    Element: Thulium
+    Symbol: Tm
+    Atomic-Number: '69'
+    Weight: '27'
+-
+    Element: Ytterbium
+    Symbol: Yb
+    Atomic-Number: '70'
+    Weight: '29'
+-
+    Element: Lutetium
+    Symbol: Lu
+    Atomic-Number: '71'
+    Weight: '25'
+-
+    Element: Hafnium
+    Symbol: Hf
+    Atomic-Number: '72'
+    Weight: '46'
+-
+    Element: Tantalum
+    Symbol: Ta
+    Atomic-Number: '73'
+    Weight: '34'
+-
+    Element: Tungsten
+    Symbol: W
+    Atomic-Number: '74'
+    Weight: '103'
+-
+    Element: Rhenium
+    Symbol: Re
+    Atomic-Number: '75'
+    Weight: '48'
+-
+    Element: Osmium
+    Symbol: Os
+    Atomic-Number: '76'
+    Weight: '27'
+-
+    Element: Iridium
+    Symbol: Ir
+    Atomic-Number: '77'
+    Weight: '44'
+-
+    Element: Platinum
+    Symbol: Pt
+    Atomic-Number: '78'
+    Weight: '94'
+-
+    Element: Gold
+    Symbol: Au
+    Atomic-Number: '79'
+    Weight: '44'
+-
+    Element: Mercury
+    Symbol: Hg
+    Atomic-Number: '80'
+    Weight: '204'
+-
+    Element: Thallium
+    Symbol: Tl
+    Atomic-Number: '81'
+    Weight: '49'
+-
+    Element: Lead
+    Symbol: Pb
+    Atomic-Number: '82'
+    Weight: '106'
+-
+    Element: Bismuth
+    Symbol: Bi
+    Atomic-Number: '83'
+    Weight: '50'
+-
+    Element: Polonium
+    Symbol: Po
+    Atomic-Number: '84'
+    Weight: '3'
+-
+    Element: Astatine
+    Symbol: At
+    Atomic-Number: '85'
+    Weight: '1'
+-
+    Element: Radon
+    Symbol: Rn
+    Atomic-Number: '86'
+    Weight: '1'
+-
+    Element: Francium
+    Symbol: Fr
+    Atomic-Number: '87'
+    Weight: '1'
+-
+    Element: Radium
+    Symbol: Ra
+    Atomic-Number: '88'
+    Weight: '2'
+-
+    Element: Actinium
+    Symbol: Ac
+    Atomic-Number: '89'
+    Weight: '1'
+-
+    Element: Thorium
+    Symbol: Th
+    Atomic-Number: '90'
+    Weight: '25'
+-
+    Element: Protactinium
+    Symbol: Pa
+    Atomic-Number: '91'
+    Weight: '2'
+-
+    Element: Uranium
+    Symbol: U
+    Atomic-Number: '92'
+    Weight: '43'
+-
+    Element: Neptunium
+    Symbol: Np
+    Atomic-Number: '93'
+    Weight: '2'
+-
+    Element: Plutonium
+    Symbol: Pu
+    Atomic-Number: '94'
+    Weight: '11'
+-
+    Element: Americium
+    Symbol: Am
+    Atomic-Number: '95'
+    Weight: '8'
+-
+    Element: Curium
+    Symbol: Cm
+    Atomic-Number: '96'
+    Weight: '1'
+-
+    Element: Berkelium
+    Symbol: Bk
+    Atomic-Number: '97'
+    Weight: '2'
+-
+    Element: Californium
+    Symbol: Cf
+    Atomic-Number: '98'
+    Weight: '1'
+-
+    Element: Einsteinium
+    Symbol: Es
+    Atomic-Number: '99'
+    Weight: '1'
+-
+    Element: Fermium
+    Symbol: Fm
+    Atomic-Number: '100'
+    Weight: '1'
+-
+    Element: Mendelevium
+    Symbol: Md
+    Atomic-Number: '101'
+    Weight: '1'
+-
+    Element: Nobelium
+    Symbol: 'No'
+    Atomic-Number: '102'
+    Weight: '1'
+-
+    Element: Lawrencium
+    Symbol: Lr
+    Atomic-Number: '103'
+    Weight: '1'
+-
+    Element: Rutherfordium
+    Symbol: Rf
+    Atomic-Number: '104'
+    Weight: '1'
+-
+    Element: Dubnium
+    Symbol: Db
+    Atomic-Number: '105'
+    Weight: '1'
+-
+    Element: Seaborgium
+    Symbol: Sg
+    Atomic-Number: '106'
+    Weight: '1'
+-
+    Element: Bohrium
+    Symbol: Bh
+    Atomic-Number: '107'
+    Weight: '1'
+-
+    Element: Hassium
+    Symbol: Hs
+    Atomic-Number: '108'
+    Weight: '1'
+-
+    Element: Meitnerium
+    Symbol: Mt
+    Atomic-Number: '109'
+    Weight: '1'
+-
+    Element: Darmstadtium
+    Symbol: Ds
+    Atomic-Number: '110'
+    Weight: '1'
+-
+    Element: Roentgenium
+    Symbol: Rg
+    Atomic-Number: '111'
+    Weight: '1'
+-
+    Element: Copernicium
+    Symbol: Cn
+    Atomic-Number: '112'
+    Weight: '1'
+-
+    Element: Nihonium
+    Symbol: Nh
+    Atomic-Number: '113'
+    Weight: '1'
+-
+    Element: Flerovium
+    Symbol: Fl
+    Atomic-Number: '114'
+    Weight: '1'
+-
+    Element: Moscovium
+    Symbol: Mc
+    Atomic-Number: '115'
+    Weight: '1'
+-
+    Element: Livermorium
+    Symbol: Lv
+    Atomic-Number: '116'
+    Weight: '1'
+-
+    Element: Tennessine
+    Symbol: Ts
+    Atomic-Number: '117'
+    Weight: '1'
+-
+    Element: Oganesson
+    Symbol: Og
+    Atomic-Number: '118'
+    Weight: '1'
