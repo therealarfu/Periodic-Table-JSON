@@ -31,6 +31,9 @@ An JSON file of the Periodic Table
 | Symbol | Returns a symbol of element| String |
 | Atomic-Number | Returns a atomic number of element | Integer |
 | Weight | Returns a weight of element | Float |
+| Group | Only for (Position) | String |
+| Period | Only for (Position) | String |
+| Family | Only for (Position) | String |
 | Electrons | Only for (Electrons) | String |
 | Details | Only for (Series) | Array |
 
