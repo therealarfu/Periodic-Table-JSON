@@ -1,0 +1,2225 @@
+[
+   {
+      "Element":"Hydrogen",
+      "Symbol":"H",
+      "Atomic-Number":"1",
+      "Weight":"1.008",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Gas",
+         "Energy-Levels":"1",
+         "Electronegativity":2.2,
+         "Melting-Point":-259.1,
+         "Boiling-Point":-252.9,
+         "Electron-Affinity":72.8,
+         "Ionization":1,
+         "Radius":53,
+         "Density":0.0899,
+         "Discovered":"1766 AD"
+      }
+   },
+   {
+      "Element":"Helium",
+      "Symbol":"He",
+      "Atomic-Number":"2",
+      "Weight":"4.0026",
+      "Details":{
+         "Metal-Type":"Noble gases",
+         "State":"Gas",
+         "Energy-Levels":"2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":-269,
+         "Electron-Affinity":0,
+         "Ionization":2,
+         "Radius":31,
+         "Density":0.1785,
+         "Discovered":"1895 AD"
+      }
+   },
+   {
+      "Element":"Lithium",
+      "Symbol":"Li",
+      "Atomic-Number":"3",
+      "Weight":"6.94",
+      "Details":{
+         "Metal-Type":"Alkali metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 1",
+         "Electronegativity":0.98,
+         "Melting-Point":180.54,
+         "Boiling-Point":1,
+         "Electron-Affinity":59.6,
+         "Ionization":520.2,
+         "Radius":167,
+         "Density":535,
+         "Discovered":"1817 AD"
+      }
+   },
+   {
+      "Element":"Beryllium",
+      "Symbol":"Be",
+      "Atomic-Number":"4",
+      "Weight":"9.0122",
+      "Details":{
+         "Metal-Type":"Alkaline earth metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 2",
+         "Electronegativity":1.57,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":0,
+         "Ionization":899.5,
+         "Radius":112,
+         "Density":1,
+         "Discovered":"1797 AD"
+      }
+   },
+   {
+      "Element":"Boron",
+      "Symbol":"B",
+      "Atomic-Number":"5",
+      "Weight":"10.81",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 3",
+         "Electronegativity":2.04,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":26.7,
+         "Ionization":800.6,
+         "Radius":87,
+         "Density":2,
+         "Discovered":"1808 AD"
+      }
+   },
+   {
+      "Element":"Carbon",
+      "Symbol":"C",
+      "Atomic-Number":"6",
+      "Weight":"12.011",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Solid",
+         "Energy-Levels":"2, 4",
+         "Electronegativity":2.55,
+         "Melting-Point":3,
+         "Boiling-Point":3,
+         "Electron-Affinity":153.9,
+         "Ionization":1,
+         "Radius":67,
+         "Density":2,
+         "Discovered":"3750 BC"
+      }
+   },
+   {
+      "Element":"Nitrogen",
+      "Symbol":"N",
+      "Atomic-Number":"7",
+      "Weight":"14.007",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Gas",
+         "Energy-Levels":"2, 5",
+         "Electronegativity":3.04,
+         "Melting-Point":-210.1,
+         "Boiling-Point":-195.8,
+         "Electron-Affinity":7,
+         "Ionization":1,
+         "Radius":56,
+         "Density":1.251,
+         "Discovered":"1772 AD"
+      }
+   },
+   {
+      "Element":"Oxygen",
+      "Symbol":"O",
+      "Atomic-Number":"8",
+      "Weight":"15.999",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Gas",
+         "Energy-Levels":"2, 6",
+         "Electronegativity":3.44,
+         "Melting-Point":-218,
+         "Boiling-Point":-183,
+         "Electron-Affinity":141,
+         "Ionization":1,
+         "Radius":48,
+         "Density":1.429,
+         "Discovered":"1774 AD"
+      }
+   },
+   {
+      "Element":"Fluorine",
+      "Symbol":"F",
+      "Atomic-Number":"9",
+      "Weight":"18.998",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Gas",
+         "Energy-Levels":"2, 7",
+         "Electronegativity":3.98,
+         "Melting-Point":-220,
+         "Boiling-Point":-188.1,
+         "Electron-Affinity":328,
+         "Ionization":1,
+         "Radius":42,
+         "Density":1.696,
+         "Discovered":"1886 AD"
+      }
+   },
+   {
+      "Element":"Neon",
+      "Symbol":"Ne",
+      "Atomic-Number":"10",
+      "Weight":"20.180",
+      "Details":{
+         "Metal-Type":"Noble gases",
+         "State":"Gas",
+         "Energy-Levels":"2, 8",
+         "Electronegativity":null,
+         "Melting-Point":-248.6,
+         "Boiling-Point":-246.1,
+         "Electron-Affinity":0,
+         "Ionization":2,
+         "Radius":38,
+         "Density":0.9,
+         "Discovered":"1898 AD"
+      }
+   },
+   {
+      "Element":"Sodium",
+      "Symbol":"Na",
+      "Atomic-Number":"11",
+      "Weight":"22.990",
+      "Details":{
+         "Metal-Type":"Alkali metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 1",
+         "Electronegativity":0.93,
+         "Melting-Point":97.72,
+         "Boiling-Point":882.9,
+         "Electron-Affinity":52.8,
+         "Ionization":495.8,
+         "Radius":190,
+         "Density":968,
+         "Discovered":"1807 AD"
+      }
+   },
+   {
+      "Element":"Magnesium",
+      "Symbol":"Mg",
+      "Atomic-Number":"12",
+      "Weight":"24.305",
+      "Details":{
+         "Metal-Type":"Alkaline earth metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 2",
+         "Electronegativity":1.31,
+         "Melting-Point":650,
+         "Boiling-Point":1,
+         "Electron-Affinity":0,
+         "Ionization":737.7,
+         "Radius":145,
+         "Density":1,
+         "Discovered":"1755 AD"
+      }
+   },
+   {
+      "Element":"Aluminium",
+      "Symbol":"Al",
+      "Atomic-Number":"13",
+      "Weight":"26.982",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 3",
+         "Electronegativity":1.61,
+         "Melting-Point":660.32,
+         "Boiling-Point":2,
+         "Electron-Affinity":42.5,
+         "Ionization":577.5,
+         "Radius":118,
+         "Density":2,
+         "Discovered":"1825 AD"
+      }
+   },
+   {
+      "Element":"Silicon",
+      "Symbol":"Si",
+      "Atomic-Number":"14",
+      "Weight":"28.085",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 4",
+         "Electronegativity":1.9,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":133.6,
+         "Ionization":786.5,
+         "Radius":111,
+         "Density":2,
+         "Discovered":"1824 AD"
+      }
+   },
+   {
+      "Element":"Phosphorus",
+      "Symbol":"P",
+      "Atomic-Number":"15",
+      "Weight":"30.974",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 5",
+         "Electronegativity":2.19,
+         "Melting-Point":44.15,
+         "Boiling-Point":280.5,
+         "Electron-Affinity":72,
+         "Ionization":1,
+         "Radius":98,
+         "Density":1,
+         "Discovered":"1669 AD"
+      }
+   },
+   {
+      "Element":"Sulfur",
+      "Symbol":"S",
+      "Atomic-Number":"16",
+      "Weight":"32.06",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 6",
+         "Electronegativity":2.58,
+         "Melting-Point":115.21,
+         "Boiling-Point":444.72,
+         "Electron-Affinity":200,
+         "Ionization":999.6,
+         "Radius":88,
+         "Density":1,
+         "Discovered":"500 BC"
+      }
+   },
+   {
+      "Element":"Chlorine",
+      "Symbol":"Cl",
+      "Atomic-Number":"17",
+      "Weight":"35.45",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Gas",
+         "Energy-Levels":"2, 8, 7",
+         "Electronegativity":3.16,
+         "Melting-Point":-101.5,
+         "Boiling-Point":-34.04,
+         "Electron-Affinity":349,
+         "Ionization":1,
+         "Radius":79,
+         "Density":3.214,
+         "Discovered":"1774 AD"
+      }
+   },
+   {
+      "Element":"Argon",
+      "Symbol":"Ar",
+      "Atomic-Number":"18",
+      "Weight":"39.948",
+      "Details":{
+         "Metal-Type":"Noble gases",
+         "State":"Gas",
+         "Energy-Levels":"2, 8, 8",
+         "Electronegativity":null,
+         "Melting-Point":-189,
+         "Boiling-Point":-186,
+         "Electron-Affinity":0,
+         "Ionization":1,
+         "Radius":71,
+         "Density":1.784,
+         "Discovered":"1894 AD"
+      }
+   },
+   {
+      "Element":"Potassium",
+      "Symbol":"K",
+      "Atomic-Number":"19",
+      "Weight":"39.098",
+      "Details":{
+         "Metal-Type":"Alkali metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 8, 1",
+         "Electronegativity":0.82,
+         "Melting-Point":63.38,
+         "Boiling-Point":758.9,
+         "Electron-Affinity":48.4,
+         "Ionization":418.8,
+         "Radius":243,
+         "Density":856,
+         "Discovered":"1807 AD"
+      }
+   },
+   {
+      "Element":"Calcium",
+      "Symbol":"Ca",
+      "Atomic-Number":"20",
+      "Weight":"40.078",
+      "Details":{
+         "Metal-Type":"Alkaline earth metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 8, 2",
+         "Electronegativity":1,
+         "Melting-Point":841.9,
+         "Boiling-Point":1,
+         "Electron-Affinity":2.37,
+         "Ionization":589.8,
+         "Radius":194,
+         "Density":1,
+         "Discovered":"1808 AD"
+      }
+   },
+   {
+      "Element":"Scandium",
+      "Symbol":"Sc",
+      "Atomic-Number":"21",
+      "Weight":"44.956",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 9, 2",
+         "Electronegativity":1.36,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":18.1,
+         "Ionization":633.1,
+         "Radius":184,
+         "Density":2,
+         "Discovered":"1879 AD"
+      }
+   },
+   {
+      "Element":"Titanium",
+      "Symbol":"Ti",
+      "Atomic-Number":"22",
+      "Weight":"47.867",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 10, 2",
+         "Electronegativity":1.54,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":7.6,
+         "Ionization":658.8,
+         "Radius":176,
+         "Density":4,
+         "Discovered":"1791 AD"
+      }
+   },
+   {
+      "Element":"Vanadium",
+      "Symbol":"V",
+      "Atomic-Number":"23",
+      "Weight":"50.942",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 11, 2",
+         "Electronegativity":1.63,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":50.6,
+         "Ionization":650.9,
+         "Radius":171,
+         "Density":6,
+         "Discovered":"1801 AD"
+      }
+   },
+   {
+      "Element":"Chromium",
+      "Symbol":"Cr",
+      "Atomic-Number":"24",
+      "Weight":"51.996",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 13, 1",
+         "Electronegativity":1.66,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":64.3,
+         "Ionization":652.9,
+         "Radius":166,
+         "Density":7,
+         "Discovered":"1797 AD"
+      }
+   },
+   {
+      "Element":"Manganese",
+      "Symbol":"Mn",
+      "Atomic-Number":"25",
+      "Weight":"54.938",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 13, 2",
+         "Electronegativity":1.55,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":0,
+         "Ionization":717.3,
+         "Radius":161,
+         "Density":7,
+         "Discovered":"1774 AD"
+      }
+   },
+   {
+      "Element":"Iron",
+      "Symbol":"Fe",
+      "Atomic-Number":"26",
+      "Weight":"55.845",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 14, 2",
+         "Electronegativity":1.83,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":15.7,
+         "Ionization":762.5,
+         "Radius":156,
+         "Density":7,
+         "Discovered":"2000 BC"
+      }
+   },
+   {
+      "Element":"Cobalt",
+      "Symbol":"Co",
+      "Atomic-Number":"27",
+      "Weight":"58.933",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 15, 2",
+         "Electronegativity":1.88,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":63.7,
+         "Ionization":760.4,
+         "Radius":152,
+         "Density":8,
+         "Discovered":"1735 AD"
+      }
+   },
+   {
+      "Element":"Nickel",
+      "Symbol":"Ni",
+      "Atomic-Number":"28",
+      "Weight":"58.693",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 16, 2",
+         "Electronegativity":1.91,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":112,
+         "Ionization":737.1,
+         "Radius":149,
+         "Density":8,
+         "Discovered":"1751 AD"
+      }
+   },
+   {
+      "Element":"Copper",
+      "Symbol":"Cu",
+      "Atomic-Number":"29",
+      "Weight":"63.546",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 1",
+         "Electronegativity":1.9,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":118.4,
+         "Ionization":745.5,
+         "Radius":145,
+         "Density":8,
+         "Discovered":"8000 BC"
+      }
+   },
+   {
+      "Element":"Zinc",
+      "Symbol":"Zn",
+      "Atomic-Number":"30",
+      "Weight":"65.38",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 2",
+         "Electronegativity":1.65,
+         "Melting-Point":419.53,
+         "Boiling-Point":906.9,
+         "Electron-Affinity":0,
+         "Ionization":906.4,
+         "Radius":142,
+         "Density":7,
+         "Discovered":"1500 AD"
+      }
+   },
+   {
+      "Element":"Gallium",
+      "Symbol":"Ga",
+      "Atomic-Number":"31",
+      "Weight":"69.723",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 3",
+         "Electronegativity":1.81,
+         "Melting-Point":29.76,
+         "Boiling-Point":2,
+         "Electron-Affinity":28.9,
+         "Ionization":578.8,
+         "Radius":136,
+         "Density":5,
+         "Discovered":"1875 AD"
+      }
+   },
+   {
+      "Element":"Germanium",
+      "Symbol":"Ge",
+      "Atomic-Number":"32",
+      "Weight":"72.630",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 4",
+         "Electronegativity":2.01,
+         "Melting-Point":938.25,
+         "Boiling-Point":2,
+         "Electron-Affinity":119,
+         "Ionization":762,
+         "Radius":125,
+         "Density":5,
+         "Discovered":"1886 AD"
+      }
+   },
+   {
+      "Element":"Arsenic",
+      "Symbol":"As",
+      "Atomic-Number":"33",
+      "Weight":"74.922",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 5",
+         "Electronegativity":2.18,
+         "Melting-Point":816.9,
+         "Boiling-Point":614,
+         "Electron-Affinity":78,
+         "Ionization":947,
+         "Radius":114,
+         "Density":5,
+         "Discovered":"1250 AD"
+      }
+   },
+   {
+      "Element":"Selenium",
+      "Symbol":"Se",
+      "Atomic-Number":"34",
+      "Weight":"78.971",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 6",
+         "Electronegativity":2.55,
+         "Melting-Point":221,
+         "Boiling-Point":685,
+         "Electron-Affinity":195,
+         "Ionization":941,
+         "Radius":103,
+         "Density":4,
+         "Discovered":"1817 AD"
+      }
+   },
+   {
+      "Element":"Bromine",
+      "Symbol":"Br",
+      "Atomic-Number":"35",
+      "Weight":"79.904",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Liquid",
+         "Energy-Levels":"2, 8, 18, 7",
+         "Electronegativity":2.96,
+         "Melting-Point":-7.35,
+         "Boiling-Point":58.9,
+         "Electron-Affinity":324.6,
+         "Ionization":1,
+         "Radius":94,
+         "Density":3,
+         "Discovered":"1826 AD"
+      }
+   },
+   {
+      "Element":"Krypton",
+      "Symbol":"Kr",
+      "Atomic-Number":"36",
+      "Weight":"83.798",
+      "Details":{
+         "Metal-Type":"Noble gases",
+         "State":"Gas",
+         "Energy-Levels":"2, 8, 18, 8",
+         "Electronegativity":3,
+         "Melting-Point":-157.36,
+         "Boiling-Point":-153.22,
+         "Electron-Affinity":0,
+         "Ionization":1,
+         "Radius":88,
+         "Density":3.75,
+         "Discovered":"1898 AD"
+      }
+   },
+   {
+      "Element":"Rubidium",
+      "Symbol":"Rb",
+      "Atomic-Number":"37",
+      "Weight":"85.468",
+      "Details":{
+         "Metal-Type":"Alkali metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 8, 1",
+         "Electronegativity":0.82,
+         "Melting-Point":39.31,
+         "Boiling-Point":688,
+         "Electron-Affinity":46.9,
+         "Ionization":403,
+         "Radius":265,
+         "Density":1,
+         "Discovered":"1861 AD"
+      }
+   },
+   {
+      "Element":"Strontium",
+      "Symbol":"Sr",
+      "Atomic-Number":"38",
+      "Weight":"87.62",
+      "Details":{
+         "Metal-Type":"Alkaline earth metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 8, 2",
+         "Electronegativity":0.95,
+         "Melting-Point":776.9,
+         "Boiling-Point":1,
+         "Electron-Affinity":5.03,
+         "Ionization":549.5,
+         "Radius":219,
+         "Density":2,
+         "Discovered":"1790 AD"
+      }
+   },
+   {
+      "Element":"Yttrium",
+      "Symbol":"Y",
+      "Atomic-Number":"39",
+      "Weight":"88.906",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 9, 2",
+         "Electronegativity":1.22,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":29.6,
+         "Ionization":600,
+         "Radius":212,
+         "Density":4,
+         "Discovered":"1794 AD"
+      }
+   },
+   {
+      "Element":"Zirconium",
+      "Symbol":"Zr",
+      "Atomic-Number":"40",
+      "Weight":"91.224",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 10, 2",
+         "Electronegativity":1.33,
+         "Melting-Point":1,
+         "Boiling-Point":4,
+         "Electron-Affinity":41.1,
+         "Ionization":640.1,
+         "Radius":206,
+         "Density":6,
+         "Discovered":"1789 AD"
+      }
+   },
+   {
+      "Element":"Niobium",
+      "Symbol":"Nb",
+      "Atomic-Number":"41",
+      "Weight":"92.906",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 12, 1",
+         "Electronegativity":1.6,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":86.1,
+         "Ionization":652.1,
+         "Radius":198,
+         "Density":8,
+         "Discovered":"1801 AD"
+      }
+   },
+   {
+      "Element":"Molybdenum",
+      "Symbol":"Mo",
+      "Atomic-Number":"42",
+      "Weight":"95.95",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 13, 1",
+         "Electronegativity":2.16,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":71.9,
+         "Ionization":684.3,
+         "Radius":190,
+         "Density":10,
+         "Discovered":"1781 AD"
+      }
+   },
+   {
+      "Element":"Technetium",
+      "Symbol":"Tc",
+      "Atomic-Number":"43",
+      "Weight":"(98)",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 13, 2",
+         "Electronegativity":1.9,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":53,
+         "Ionization":702,
+         "Radius":183,
+         "Density":11,
+         "Discovered":"1937 AD"
+      }
+   },
+   {
+      "Element":"Ruthenium",
+      "Symbol":"Ru",
+      "Atomic-Number":"44",
+      "Weight":"101.07",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 15, 1",
+         "Electronegativity":2.2,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":101.3,
+         "Ionization":710.2,
+         "Radius":178,
+         "Density":12,
+         "Discovered":"1844 AD"
+      }
+   },
+   {
+      "Element":"Rhodium",
+      "Symbol":"Rh",
+      "Atomic-Number":"45",
+      "Weight":"102.91",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 16, 1",
+         "Electronegativity":2.28,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":109.7,
+         "Ionization":719.7,
+         "Radius":173,
+         "Density":12,
+         "Discovered":"1803 AD"
+      }
+   },
+   {
+      "Element":"Palladium",
+      "Symbol":"Pd",
+      "Atomic-Number":"46",
+      "Weight":"106.42",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18",
+         "Electronegativity":2.2,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":53.7,
+         "Ionization":804.4,
+         "Radius":169,
+         "Density":12,
+         "Discovered":"1803 AD"
+      }
+   },
+   {
+      "Element":"Silver",
+      "Symbol":"Ag",
+      "Atomic-Number":"47",
+      "Weight":"107.87",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 1",
+         "Electronegativity":1.93,
+         "Melting-Point":961.78,
+         "Boiling-Point":2,
+         "Electron-Affinity":125.6,
+         "Ionization":731,
+         "Radius":165,
+         "Density":10,
+         "Discovered":"3000 BC"
+      }
+   },
+   {
+      "Element":"Cadmium",
+      "Symbol":"Cd",
+      "Atomic-Number":"48",
+      "Weight":"112.41",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 2",
+         "Electronegativity":1.69,
+         "Melting-Point":321.07,
+         "Boiling-Point":766.9,
+         "Electron-Affinity":0,
+         "Ionization":867.8,
+         "Radius":161,
+         "Density":8,
+         "Discovered":"1817 AD"
+      }
+   },
+   {
+      "Element":"Indium",
+      "Symbol":"In",
+      "Atomic-Number":"49",
+      "Weight":"114.82",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 3",
+         "Electronegativity":1.78,
+         "Melting-Point":156.6,
+         "Boiling-Point":2,
+         "Electron-Affinity":28.9,
+         "Ionization":558.3,
+         "Radius":156,
+         "Density":7,
+         "Discovered":"1863 AD"
+      }
+   },
+   {
+      "Element":"Tin",
+      "Symbol":"Sn",
+      "Atomic-Number":"50",
+      "Weight":"118.71",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 4",
+         "Electronegativity":1.96,
+         "Melting-Point":231.93,
+         "Boiling-Point":2,
+         "Electron-Affinity":107.3,
+         "Ionization":708.6,
+         "Radius":145,
+         "Density":7,
+         "Discovered":"3000 BC"
+      }
+   },
+   {
+      "Element":"Antimony",
+      "Symbol":"Sb",
+      "Atomic-Number":"51",
+      "Weight":"121.76",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 5",
+         "Electronegativity":2.05,
+         "Melting-Point":630.63,
+         "Boiling-Point":1,
+         "Electron-Affinity":103.2,
+         "Ionization":834,
+         "Radius":133,
+         "Density":6,
+         "Discovered":"3000 BC"
+      }
+   },
+   {
+      "Element":"Tellurium",
+      "Symbol":"Te",
+      "Atomic-Number":"52",
+      "Weight":"127.60",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 6",
+         "Electronegativity":2.1,
+         "Melting-Point":449.51,
+         "Boiling-Point":987.9,
+         "Electron-Affinity":190.2,
+         "Ionization":869.3,
+         "Radius":123,
+         "Density":6,
+         "Discovered":"1783 AD"
+      }
+   },
+   {
+      "Element":"Iodine",
+      "Symbol":"I",
+      "Atomic-Number":"53",
+      "Weight":"126.90",
+      "Details":{
+         "Metal-Type":"Reactive nonmetals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 7",
+         "Electronegativity":2.66,
+         "Melting-Point":113.7,
+         "Boiling-Point":184.3,
+         "Electron-Affinity":295.2,
+         "Ionization":1,
+         "Radius":115,
+         "Density":4,
+         "Discovered":"1811 AD"
+      }
+   },
+   {
+      "Element":"Xenon",
+      "Symbol":"Xe",
+      "Atomic-Number":"54",
+      "Weight":"131.29",
+      "Details":{
+         "Metal-Type":"Noble gases",
+         "State":"Gas",
+         "Energy-Levels":"2, 8, 18, 18, 8",
+         "Electronegativity":2.6,
+         "Melting-Point":-111.8,
+         "Boiling-Point":-108,
+         "Electron-Affinity":0,
+         "Ionization":1,
+         "Radius":108,
+         "Density":5.9,
+         "Discovered":"1898 AD"
+      }
+   },
+   {
+      "Element":"Caesium",
+      "Symbol":"Cs",
+      "Atomic-Number":"55",
+      "Weight":"132.91",
+      "Details":{
+         "Metal-Type":"Alkali metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 8, 1",
+         "Electronegativity":0.79,
+         "Melting-Point":28.44,
+         "Boiling-Point":671,
+         "Electron-Affinity":45.5,
+         "Ionization":375.7,
+         "Radius":298,
+         "Density":1,
+         "Discovered":"1860 AD"
+      }
+   },
+   {
+      "Element":"Barium",
+      "Symbol":"Ba",
+      "Atomic-Number":"56",
+      "Weight":"137.33",
+      "Details":{
+         "Metal-Type":"Alkaline earth metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 8, 2",
+         "Electronegativity":0.89,
+         "Melting-Point":730,
+         "Boiling-Point":1,
+         "Electron-Affinity":13.95,
+         "Ionization":502.9,
+         "Radius":253,
+         "Density":3,
+         "Discovered":"1808 AD"
+      }
+   },
+   {
+      "Element":"Lanthanum",
+      "Symbol":"La",
+      "Atomic-Number":"57",
+      "Weight":"138.91",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 18, 9, 2",
+         "Electronegativity":1.1,
+         "Melting-Point":919.9,
+         "Boiling-Point":3,
+         "Electron-Affinity":48,
+         "Ionization":538.1,
+         "Radius":null,
+         "Density":6,
+         "Discovered":"1839 AD"
+      }
+   },
+   {
+      "Element":"Cerium",
+      "Symbol":"Ce",
+      "Atomic-Number":"58",
+      "Weight":"140.12",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 19, 9, 2",
+         "Electronegativity":1.12,
+         "Melting-Point":797.9,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":534.4,
+         "Radius":null,
+         "Density":6,
+         "Discovered":"1803 AD"
+      }
+   },
+   {
+      "Element":"Praseodymium",
+      "Symbol":"Pr",
+      "Atomic-Number":"59",
+      "Weight":"140.91",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 21, 8, 2",
+         "Electronegativity":1.13,
+         "Melting-Point":930.9,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":527,
+         "Radius":247,
+         "Density":6,
+         "Discovered":"1885 AD"
+      }
+   },
+   {
+      "Element":"Neodymium",
+      "Symbol":"Nd",
+      "Atomic-Number":"60",
+      "Weight":"144.24",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 22, 8, 2",
+         "Electronegativity":1.14,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":533.1,
+         "Radius":206,
+         "Density":7,
+         "Discovered":"1885 AD"
+      }
+   },
+   {
+      "Element":"Promethium",
+      "Symbol":"Pm",
+      "Atomic-Number":"61",
+      "Weight":"(145)",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 23, 8, 2",
+         "Electronegativity":null,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":540,
+         "Radius":205,
+         "Density":7,
+         "Discovered":"1945 AD"
+      }
+   },
+   {
+      "Element":"Samarium",
+      "Symbol":"Sm",
+      "Atomic-Number":"62",
+      "Weight":"150.36",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 24, 8, 2",
+         "Electronegativity":1.17,
+         "Melting-Point":1,
+         "Boiling-Point":1,
+         "Electron-Affinity":50,
+         "Ionization":544.5,
+         "Radius":238,
+         "Density":7,
+         "Discovered":"1879 AD"
+      }
+   },
+   {
+      "Element":"Europium",
+      "Symbol":"Eu",
+      "Atomic-Number":"63",
+      "Weight":"151.96",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 25, 8, 2",
+         "Electronegativity":null,
+         "Melting-Point":821.9,
+         "Boiling-Point":1,
+         "Electron-Affinity":50,
+         "Ionization":547.1,
+         "Radius":231,
+         "Density":5,
+         "Discovered":"1901 AD"
+      }
+   },
+   {
+      "Element":"Gadolinium",
+      "Symbol":"Gd",
+      "Atomic-Number":"64",
+      "Weight":"157.25",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 25, 9, 2",
+         "Electronegativity":1.2,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":593.4,
+         "Radius":233,
+         "Density":7,
+         "Discovered":"1880 AD"
+      }
+   },
+   {
+      "Element":"Terbium",
+      "Symbol":"Tb",
+      "Atomic-Number":"65",
+      "Weight":"158.93",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 27, 8, 2",
+         "Electronegativity":null,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":565.8,
+         "Radius":225,
+         "Density":8,
+         "Discovered":"1843 AD"
+      }
+   },
+   {
+      "Element":"Dysprosium",
+      "Symbol":"Dy",
+      "Atomic-Number":"66",
+      "Weight":"162.50",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 28, 8, 2",
+         "Electronegativity":1.22,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":50,
+         "Ionization":573,
+         "Radius":228,
+         "Density":8,
+         "Discovered":"1886 AD"
+      }
+   },
+   {
+      "Element":"Holmium",
+      "Symbol":"Ho",
+      "Atomic-Number":"67",
+      "Weight":"164.93",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 29, 8, 2",
+         "Electronegativity":1.23,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":50,
+         "Ionization":581,
+         "Radius":226,
+         "Density":8,
+         "Discovered":"1878 AD"
+      }
+   },
+   {
+      "Element":"Erbium",
+      "Symbol":"Er",
+      "Atomic-Number":"68",
+      "Weight":"167.26",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 30, 8, 2",
+         "Electronegativity":1.24,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":50,
+         "Ionization":589.3,
+         "Radius":226,
+         "Density":9,
+         "Discovered":"1842 AD"
+      }
+   },
+   {
+      "Element":"Thulium",
+      "Symbol":"Tm",
+      "Atomic-Number":"69",
+      "Weight":"168.93",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 31, 8, 2",
+         "Electronegativity":1.25,
+         "Melting-Point":1,
+         "Boiling-Point":1,
+         "Electron-Affinity":50,
+         "Ionization":596.7,
+         "Radius":222,
+         "Density":9,
+         "Discovered":"1879 AD"
+      }
+   },
+   {
+      "Element":"Ytterbium",
+      "Symbol":"Yb",
+      "Atomic-Number":"70",
+      "Weight":"173.05",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 8, 2",
+         "Electronegativity":null,
+         "Melting-Point":818.9,
+         "Boiling-Point":1,
+         "Electron-Affinity":50,
+         "Ionization":603.4,
+         "Radius":222,
+         "Density":6,
+         "Discovered":"1878 AD"
+      }
+   },
+   {
+      "Element":"Lutetium",
+      "Symbol":"Lu",
+      "Atomic-Number":"71",
+      "Weight":"174.97",
+      "Details":{
+         "Metal-Type":"Lanthanoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 9, 2",
+         "Electronegativity":1.27,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":50,
+         "Ionization":523.5,
+         "Radius":217,
+         "Density":9,
+         "Discovered":"1907 AD"
+      }
+   },
+   {
+      "Element":"Hafnium",
+      "Symbol":"Hf",
+      "Atomic-Number":"72",
+      "Weight":"178.49",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 10, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":0,
+         "Ionization":658.5,
+         "Radius":208,
+         "Density":13,
+         "Discovered":"1923 AD"
+      }
+   },
+   {
+      "Element":"Tantalum",
+      "Symbol":"Ta",
+      "Atomic-Number":"73",
+      "Weight":"180.95",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 11, 2",
+         "Electronegativity":1.5,
+         "Melting-Point":3,
+         "Boiling-Point":5,
+         "Electron-Affinity":31,
+         "Ionization":761,
+         "Radius":200,
+         "Density":16,
+         "Discovered":"1802 AD"
+      }
+   },
+   {
+      "Element":"Tungsten",
+      "Symbol":"W",
+      "Atomic-Number":"74",
+      "Weight":"183.84",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 12, 2",
+         "Electronegativity":2.36,
+         "Melting-Point":3,
+         "Boiling-Point":5,
+         "Electron-Affinity":78.6,
+         "Ionization":770,
+         "Radius":193,
+         "Density":19,
+         "Discovered":"1783 AD"
+      }
+   },
+   {
+      "Element":"Rhenium",
+      "Symbol":"Re",
+      "Atomic-Number":"75",
+      "Weight":"186.21",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 13, 2",
+         "Electronegativity":1.9,
+         "Melting-Point":3,
+         "Boiling-Point":5,
+         "Electron-Affinity":14.5,
+         "Ionization":760,
+         "Radius":188,
+         "Density":21,
+         "Discovered":"1925 AD"
+      }
+   },
+   {
+      "Element":"Osmium",
+      "Symbol":"Os",
+      "Atomic-Number":"76",
+      "Weight":"190.23",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 14, 2",
+         "Electronegativity":2.2,
+         "Melting-Point":3,
+         "Boiling-Point":5,
+         "Electron-Affinity":106.1,
+         "Ionization":840,
+         "Radius":185,
+         "Density":22,
+         "Discovered":"1803 AD"
+      }
+   },
+   {
+      "Element":"Iridium",
+      "Symbol":"Ir",
+      "Atomic-Number":"77",
+      "Weight":"192.22",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 15, 2",
+         "Electronegativity":2.2,
+         "Melting-Point":2,
+         "Boiling-Point":4,
+         "Electron-Affinity":151,
+         "Ionization":880,
+         "Radius":180,
+         "Density":22,
+         "Discovered":"1803 AD"
+      }
+   },
+   {
+      "Element":"Platinum",
+      "Symbol":"Pt",
+      "Atomic-Number":"78",
+      "Weight":"195.08",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 17, 1",
+         "Electronegativity":2.28,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":205.3,
+         "Ionization":870,
+         "Radius":177,
+         "Density":21,
+         "Discovered":"1735 AD"
+      }
+   },
+   {
+      "Element":"Gold",
+      "Symbol":"Au",
+      "Atomic-Number":"79",
+      "Weight":"196.97",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 1",
+         "Electronegativity":2.54,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":222.8,
+         "Ionization":890.1,
+         "Radius":174,
+         "Density":19,
+         "Discovered":"2500 BC"
+      }
+   },
+   {
+      "Element":"Mercury",
+      "Symbol":"Hg",
+      "Atomic-Number":"80",
+      "Weight":"200.59",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Liquid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 2",
+         "Electronegativity":2,
+         "Melting-Point":-38.83,
+         "Boiling-Point":356.73,
+         "Electron-Affinity":0,
+         "Ionization":1,
+         "Radius":171,
+         "Density":13,
+         "Discovered":"1500 BC"
+      }
+   },
+   {
+      "Element":"Thallium",
+      "Symbol":"Tl",
+      "Atomic-Number":"81",
+      "Weight":"204.38",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 3",
+         "Electronegativity":1.62,
+         "Melting-Point":304,
+         "Boiling-Point":1,
+         "Electron-Affinity":19.2,
+         "Ionization":589.4,
+         "Radius":156,
+         "Density":11,
+         "Discovered":"1861 AD"
+      }
+   },
+   {
+      "Element":"Lead",
+      "Symbol":"Pb",
+      "Atomic-Number":"82",
+      "Weight":"207.2",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 4",
+         "Electronegativity":2.33,
+         "Melting-Point":327.46,
+         "Boiling-Point":1,
+         "Electron-Affinity":35.1,
+         "Ionization":715.6,
+         "Radius":154,
+         "Density":11,
+         "Discovered":"4000 BC"
+      }
+   },
+   {
+      "Element":"Bismuth",
+      "Symbol":"Bi",
+      "Atomic-Number":"83",
+      "Weight":"208.98",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 5",
+         "Electronegativity":2.02,
+         "Melting-Point":271.3,
+         "Boiling-Point":1,
+         "Electron-Affinity":91.2,
+         "Ionization":703,
+         "Radius":143,
+         "Density":9,
+         "Discovered":"1400 AD"
+      }
+   },
+   {
+      "Element":"Polonium",
+      "Symbol":"Po",
+      "Atomic-Number":"84",
+      "Weight":"(209)",
+      "Details":{
+         "Metal-Type":"Post-transition metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 6",
+         "Electronegativity":2,
+         "Melting-Point":255,
+         "Boiling-Point":961.9,
+         "Electron-Affinity":183.3,
+         "Ionization":812.1,
+         "Radius":135,
+         "Density":9,
+         "Discovered":"1898 AD"
+      }
+   },
+   {
+      "Element":"Astatine",
+      "Symbol":"At",
+      "Atomic-Number":"85",
+      "Weight":"(210)",
+      "Details":{
+         "Metal-Type":"Metalloids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 7",
+         "Electronegativity":2.2,
+         "Melting-Point":302,
+         "Boiling-Point":350,
+         "Electron-Affinity":270.1,
+         "Ionization":890,
+         "Radius":127,
+         "Density":null,
+         "Discovered":"1940 AD"
+      }
+   },
+   {
+      "Element":"Radon",
+      "Symbol":"Rn",
+      "Atomic-Number":"86",
+      "Weight":"(222)",
+      "Details":{
+         "Metal-Type":"Noble gases",
+         "State":"Gas",
+         "Energy-Levels":"2, 8, 18, 32, 18, 8",
+         "Electronegativity":null,
+         "Melting-Point":-71.1,
+         "Boiling-Point":-61.85,
+         "Electron-Affinity":0,
+         "Ionization":1,
+         "Radius":120,
+         "Density":9.73,
+         "Discovered":"1900 AD"
+      }
+   },
+   {
+      "Element":"Francium",
+      "Symbol":"Fr",
+      "Atomic-Number":"87",
+      "Weight":"(223)",
+      "Details":{
+         "Metal-Type":"Alkali metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 8, 1",
+         "Electronegativity":0.7,
+         "Melting-Point":20.9,
+         "Boiling-Point":650,
+         "Electron-Affinity":null,
+         "Ionization":380,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1939 AD"
+      }
+   },
+   {
+      "Element":"Radium",
+      "Symbol":"Ra",
+      "Atomic-Number":"88",
+      "Weight":"(226)",
+      "Details":{
+         "Metal-Type":"Alkaline earth metals",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 8, 2",
+         "Electronegativity":0.9,
+         "Melting-Point":700,
+         "Boiling-Point":1,
+         "Electron-Affinity":null,
+         "Ionization":509.3,
+         "Radius":null,
+         "Density":5,
+         "Discovered":"1898 AD"
+      }
+   },
+   {
+      "Element":"Actinium",
+      "Symbol":"Ac",
+      "Atomic-Number":"89",
+      "Weight":"(227)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 9, 2",
+         "Electronegativity":1.1,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":null,
+         "Ionization":499,
+         "Radius":null,
+         "Density":10,
+         "Discovered":"1899 AD"
+      }
+   },
+   {
+      "Element":"Thorium",
+      "Symbol":"Th",
+      "Atomic-Number":"90",
+      "Weight":"232.04",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 18, 10, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":1,
+         "Boiling-Point":4,
+         "Electron-Affinity":null,
+         "Ionization":587,
+         "Radius":null,
+         "Density":11,
+         "Discovered":"1829 AD"
+      }
+   },
+   {
+      "Element":"Protactinium",
+      "Symbol":"Pa",
+      "Atomic-Number":"91",
+      "Weight":"231.04",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 20, 9, 2",
+         "Electronegativity":1.5,
+         "Melting-Point":1,
+         "Boiling-Point":4,
+         "Electron-Affinity":null,
+         "Ionization":568,
+         "Radius":null,
+         "Density":15,
+         "Discovered":"1913 AD"
+      }
+   },
+   {
+      "Element":"Uranium",
+      "Symbol":"U",
+      "Atomic-Number":"92",
+      "Weight":"238.03",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 21, 9, 2",
+         "Electronegativity":1.38,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":null,
+         "Ionization":597.6,
+         "Radius":null,
+         "Density":19,
+         "Discovered":"1789 AD"
+      }
+   },
+   {
+      "Element":"Neptunium",
+      "Symbol":"Np",
+      "Atomic-Number":"93",
+      "Weight":"(237)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 22, 9, 2",
+         "Electronegativity":1.36,
+         "Melting-Point":644,
+         "Boiling-Point":4,
+         "Electron-Affinity":null,
+         "Ionization":604.5,
+         "Radius":null,
+         "Density":20,
+         "Discovered":"1940 AD"
+      }
+   },
+   {
+      "Element":"Plutonium",
+      "Symbol":"Pu",
+      "Atomic-Number":"94",
+      "Weight":"(244)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 24, 8, 2",
+         "Electronegativity":1.28,
+         "Melting-Point":640,
+         "Boiling-Point":3,
+         "Electron-Affinity":null,
+         "Ionization":584.7,
+         "Radius":null,
+         "Density":19,
+         "Discovered":"1940 AD"
+      }
+   },
+   {
+      "Element":"Americium",
+      "Symbol":"Am",
+      "Atomic-Number":"95",
+      "Weight":"(243)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 25, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":1,
+         "Boiling-Point":2,
+         "Electron-Affinity":null,
+         "Ionization":578,
+         "Radius":null,
+         "Density":13,
+         "Discovered":"1944 AD"
+      }
+   },
+   {
+      "Element":"Curium",
+      "Symbol":"Cm",
+      "Atomic-Number":"96",
+      "Weight":"(247)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 25, 9, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":1,
+         "Boiling-Point":3,
+         "Electron-Affinity":null,
+         "Ionization":581,
+         "Radius":null,
+         "Density":13,
+         "Discovered":"1944 AD"
+      }
+   },
+   {
+      "Element":"Berkelium",
+      "Symbol":"Bk",
+      "Atomic-Number":"97",
+      "Weight":"(247)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 27, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":1,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":601,
+         "Radius":null,
+         "Density":14,
+         "Discovered":"1949 AD"
+      }
+   },
+   {
+      "Element":"Californium",
+      "Symbol":"Cf",
+      "Atomic-Number":"98",
+      "Weight":"(251)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 28, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":899.9,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":608,
+         "Radius":null,
+         "Density":15,
+         "Discovered":"1950 AD"
+      }
+   },
+   {
+      "Element":"Einsteinium",
+      "Symbol":"Es",
+      "Atomic-Number":"99",
+      "Weight":"(252)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 29, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":859.9,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":619,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1952 AD"
+      }
+   },
+   {
+      "Element":"Fermium",
+      "Symbol":"Fm",
+      "Atomic-Number":"100",
+      "Weight":"(257)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 30, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":1,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":627,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1952 AD"
+      }
+   },
+   {
+      "Element":"Mendelevium",
+      "Symbol":"Md",
+      "Atomic-Number":"101",
+      "Weight":"(258)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 31, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":830,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":635,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1955 AD"
+      }
+   },
+   {
+      "Element":"Nobelium",
+      "Symbol":"No",
+      "Atomic-Number":"102",
+      "Weight":"(259)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 32, 8, 2",
+         "Electronegativity":1.3,
+         "Melting-Point":830,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":642,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1958 AD"
+      }
+   },
+   {
+      "Element":"Lawrencium",
+      "Symbol":"Lr",
+      "Atomic-Number":"103",
+      "Weight":"(266)",
+      "Details":{
+         "Metal-Type":"Actinoids",
+         "State":"Solid",
+         "Energy-Levels":"2, 8, 18, 32, 32, 8, 3",
+         "Electronegativity":null,
+         "Melting-Point":1,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":470,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1961 AD"
+      }
+   },
+   {
+      "Element":"Rutherfordium",
+      "Symbol":"Rf",
+      "Atomic-Number":"104",
+      "Weight":"(267)",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 10, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":580,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1964 AD"
+      }
+   },
+   {
+      "Element":"Dubnium",
+      "Symbol":"Db",
+      "Atomic-Number":"105",
+      "Weight":"(268)",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 11, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1967 AD"
+      }
+   },
+   {
+      "Element":"Seaborgium",
+      "Symbol":"Sg",
+      "Atomic-Number":"106",
+      "Weight":"(269)",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 12, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1974 AD"
+      }
+   },
+   {
+      "Element":"Bohrium",
+      "Symbol":"Bh",
+      "Atomic-Number":"107",
+      "Weight":"(270)",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 13, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1981 AD"
+      }
+   },
+   {
+      "Element":"Hassium",
+      "Symbol":"Hs",
+      "Atomic-Number":"108",
+      "Weight":"(277)",
+      "Details":{
+         "Metal-Type":"Transition metals",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 14, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1984 AD"
+      }
+   },
+   {
+      "Element":"Meitnerium",
+      "Symbol":"Mt",
+      "Atomic-Number":"109",
+      "Weight":"(278)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 15, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1982 AD"
+      }
+   },
+   {
+      "Element":"Darmstadtium",
+      "Symbol":"Ds",
+      "Atomic-Number":"110",
+      "Weight":"(281)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 17, 1",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1994 AD"
+      }
+   },
+   {
+      "Element":"Roentgenium",
+      "Symbol":"Rg",
+      "Atomic-Number":"111",
+      "Weight":"(282)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 17, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1994 AD"
+      }
+   },
+   {
+      "Element":"Copernicium",
+      "Symbol":"Cn",
+      "Atomic-Number":"112",
+      "Weight":"(285)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 18, 2",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1996 AD"
+      }
+   },
+   {
+      "Element":"Nihonium",
+      "Symbol":"Nh",
+      "Atomic-Number":"113",
+      "Weight":"(286)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 18, 3",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"2004 AD"
+      }
+   },
+   {
+      "Element":"Flerovium",
+      "Symbol":"Fl",
+      "Atomic-Number":"114",
+      "Weight":"(289)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 18, 4",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"1998 AD"
+      }
+   },
+   {
+      "Element":"Moscovium",
+      "Symbol":"Mc",
+      "Atomic-Number":"115",
+      "Weight":"(290)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 18, 5",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"2004 AD"
+      }
+   },
+   {
+      "Element":"Livermorium",
+      "Symbol":"Lv",
+      "Atomic-Number":"116",
+      "Weight":"(293)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 18, 6",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"2000 AD"
+      }
+   },
+   {
+      "Element":"Tennessine",
+      "Symbol":"Ts",
+      "Atomic-Number":"117",
+      "Weight":"(294)",
+      "Details":{
+         "Metal-Type":"N/A",
+         "State":"Unknown",
+         "Energy-Levels":"2, 8, 18, 32, 32, 18, 7",
+         "Electronegativity":null,
+         "Melting-Point":null,
+         "Boiling-Point":null,
+         "Electron-Affinity":null,
+         "Ionization":null,
+         "Radius":null,
+         "Density":null,
+         "Discovered":"2010 AD"
+      }
+   }
+]
