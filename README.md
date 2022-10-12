@@ -6,3 +6,13 @@ An JSON file of the Periodic Table
 
 ## Future plans
 > We plan to add more precise information to the elements of the periodic table, not just about mass or electrons.
+
+## Overview
+> Short Version (Compounds, Isotopes, Position, Properties)
+
+|     **Data Object**    |
+|------------------------|
+| Element                |
+| Symbol                 |
+| Atomic-Number          |
+| Weight                 |
