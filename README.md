@@ -1,4 +1,13 @@
 # Periodic-Table-DB
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+![Version](https://img.shields.io/badge/Version%201.2-2962FF?style=for-the-badge&logoColor=white)
+![Free](https://img.shields.io/badge/Open%20Source-FB542B?style=for-the-badge&logoColor=white)
+<br/>
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/uesleibros/Periodic-Table-DB/actions)
+
+<br/><br/>
+<img src="https://img.icons8.com/color/480/periodic-table-of-elements.png" height="150"/><br/>
+
 An JSON file of the Periodic Table
 
 > A database with all the information about each element of the periodic table.
@@ -25,7 +34,7 @@ An JSON file of the Periodic Table
 | --- | --- | --- |
 | Metal-Type | Returns a metal type of element | String |
 | State | Returns a state of element, example (Gas, Solid) | String |
-| Energy Levels | Returns a energy levels of element | Array |
+| Energy-Levels | Returns a energy levels of element | Array |
 | Electronegativity | Returns a Electronegativity of element | Float |
 | Melting-Point | Returns a Melting Point of element | Float |
 | Boiling-Point | Returns a Melting Point of element | Float |
