@@ -12,10 +12,10 @@ An JSON file of the Periodic Table
 
 | Name | Description | Type |
 | --- | --- | --- |
-| Element | Returns a name of Element | String |
-| Symbol | Returns a symbol of Element| String |
-| Atomic-Number | Returns a atomic number of Element | Integer |
-| Weight | Returns a weight of Element | Float |
+| Element | Returns a name of element | String |
+| Symbol | Returns a symbol of element| String |
+| Atomic-Number | Returns a atomic number of element | Integer |
+| Weight | Returns a weight of element | Float |
 | Electrons | Only for (Electrons) | String |
 | Details | Only for (Series) | Array |
 
@@ -23,7 +23,14 @@ An JSON file of the Periodic Table
 
 | Name | Description | Type |
 | --- | --- | --- |
-| Metal-Type | Returns a metal type of Element | String |
-| State | Returns a state of Element, example (Gas, Solid) | String |
-| Energy Levels | Returns a energy levels of Element | Array |
-| Electronegativity | Returns a Electronegativity of Element | Float |
+| Metal-Type | Returns a metal type of element | String |
+| State | Returns a state of element, example (Gas, Solid) | String |
+| Energy Levels | Returns a energy levels of element | Array |
+| Electronegativity | Returns a Electronegativity of element | Float |
+| Melting-Point | Returns a Melting Point of element | Float |
+| Boiling-Point | Returns a Melting Point of element | Float |
+| Electron-Affinity | Returns a Electron Affinity of element | Float |
+| Ionization | Returns a Ionization of element | Float |
+| Radius | Returns a Radius of element | Float |
+| Density | Returns a Density of element | Float |
+| Discovered | Returns the year the element was discovered | String |
