@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/Version%201.2-2962FF?style=for-the-badge&logoColor=white)
 ![Free](https://img.shields.io/badge/Open%20Source-FB542B?style=for-the-badge&logoColor=white)
 <br/>
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/uesleibros/Periodic-Table-DB/actions)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](./actions)
 
 <br/><br/>
 <img src="https://img.icons8.com/color/480/periodic-table-of-elements.png" height="150"/><br/>
