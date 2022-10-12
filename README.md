@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/480/periodic-table-of-elements.png" height="150" align="center"/>
+  <img src="https://img.icons8.com/color/480/periodic-table-of-elements.png" height="180"/>
 </p><br/>
 
 
