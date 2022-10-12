@@ -7,7 +7,9 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Gas",
-         "Energy-Levels":"1",
+         "Energy-Levels":[
+            1
+         ],
          "Electronegativity":2.2,
          "Melting-Point":-259.1,
          "Boiling-Point":-252.9,
@@ -26,7 +28,9 @@
       "Details":{
          "Metal-Type":"Noble gases",
          "State":"Gas",
-         "Energy-Levels":"2",
+         "Energy-Levels":[
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":-269,
@@ -45,7 +49,10 @@
       "Details":{
          "Metal-Type":"Alkali metals",
          "State":"Solid",
-         "Energy-Levels":"2, 1",
+         "Energy-Levels":[
+            2,
+            1
+         ],
          "Electronegativity":0.98,
          "Melting-Point":180.54,
          "Boiling-Point":1,
@@ -64,7 +71,10 @@
       "Details":{
          "Metal-Type":"Alkaline earth metals",
          "State":"Solid",
-         "Energy-Levels":"2, 2",
+         "Energy-Levels":[
+            2,
+            2
+         ],
          "Electronegativity":1.57,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -83,7 +93,10 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 3",
+         "Energy-Levels":[
+            2,
+            3
+         ],
          "Electronegativity":2.04,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -102,7 +115,10 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Solid",
-         "Energy-Levels":"2, 4",
+         "Energy-Levels":[
+            2,
+            4
+         ],
          "Electronegativity":2.55,
          "Melting-Point":3,
          "Boiling-Point":3,
@@ -121,7 +137,10 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Gas",
-         "Energy-Levels":"2, 5",
+         "Energy-Levels":[
+            2,
+            5
+         ],
          "Electronegativity":3.04,
          "Melting-Point":-210.1,
          "Boiling-Point":-195.8,
@@ -140,7 +159,10 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Gas",
-         "Energy-Levels":"2, 6",
+         "Energy-Levels":[
+            2,
+            6
+         ],
          "Electronegativity":3.44,
          "Melting-Point":-218,
          "Boiling-Point":-183,
@@ -159,7 +181,10 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Gas",
-         "Energy-Levels":"2, 7",
+         "Energy-Levels":[
+            2,
+            7
+         ],
          "Electronegativity":3.98,
          "Melting-Point":-220,
          "Boiling-Point":-188.1,
@@ -178,7 +203,10 @@
       "Details":{
          "Metal-Type":"Noble gases",
          "State":"Gas",
-         "Energy-Levels":"2, 8",
+         "Energy-Levels":[
+            2,
+            8
+         ],
          "Electronegativity":null,
          "Melting-Point":-248.6,
          "Boiling-Point":-246.1,
@@ -197,7 +225,11 @@
       "Details":{
          "Metal-Type":"Alkali metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            1
+         ],
          "Electronegativity":0.93,
          "Melting-Point":97.72,
          "Boiling-Point":882.9,
@@ -216,7 +248,11 @@
       "Details":{
          "Metal-Type":"Alkaline earth metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            2
+         ],
          "Electronegativity":1.31,
          "Melting-Point":650,
          "Boiling-Point":1,
@@ -235,7 +271,11 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 3",
+         "Energy-Levels":[
+            2,
+            8,
+            3
+         ],
          "Electronegativity":1.61,
          "Melting-Point":660.32,
          "Boiling-Point":2,
@@ -254,7 +294,11 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 4",
+         "Energy-Levels":[
+            2,
+            8,
+            4
+         ],
          "Electronegativity":1.9,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -273,7 +317,11 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 5",
+         "Energy-Levels":[
+            2,
+            8,
+            5
+         ],
          "Electronegativity":2.19,
          "Melting-Point":44.15,
          "Boiling-Point":280.5,
@@ -292,7 +340,11 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 6",
+         "Energy-Levels":[
+            2,
+            8,
+            6
+         ],
          "Electronegativity":2.58,
          "Melting-Point":115.21,
          "Boiling-Point":444.72,
@@ -311,7 +363,11 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Gas",
-         "Energy-Levels":"2, 8, 7",
+         "Energy-Levels":[
+            2,
+            8,
+            7
+         ],
          "Electronegativity":3.16,
          "Melting-Point":-101.5,
          "Boiling-Point":-34.04,
@@ -330,7 +386,11 @@
       "Details":{
          "Metal-Type":"Noble gases",
          "State":"Gas",
-         "Energy-Levels":"2, 8, 8",
+         "Energy-Levels":[
+            2,
+            8,
+            8
+         ],
          "Electronegativity":null,
          "Melting-Point":-189,
          "Boiling-Point":-186,
@@ -349,7 +409,12 @@
       "Details":{
          "Metal-Type":"Alkali metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 8, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            8,
+            1
+         ],
          "Electronegativity":0.82,
          "Melting-Point":63.38,
          "Boiling-Point":758.9,
@@ -368,7 +433,12 @@
       "Details":{
          "Metal-Type":"Alkaline earth metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            8,
+            2
+         ],
          "Electronegativity":1,
          "Melting-Point":841.9,
          "Boiling-Point":1,
@@ -387,7 +457,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            9,
+            2
+         ],
          "Electronegativity":1.36,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -406,7 +481,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 10, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            10,
+            2
+         ],
          "Electronegativity":1.54,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -425,7 +505,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 11, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            11,
+            2
+         ],
          "Electronegativity":1.63,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -444,7 +529,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 13, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            13,
+            1
+         ],
          "Electronegativity":1.66,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -463,7 +553,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 13, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            13,
+            2
+         ],
          "Electronegativity":1.55,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -482,7 +577,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 14, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            14,
+            2
+         ],
          "Electronegativity":1.83,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -501,7 +601,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 15, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            15,
+            2
+         ],
          "Electronegativity":1.88,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -520,7 +625,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 16, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            16,
+            2
+         ],
          "Electronegativity":1.91,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -539,7 +649,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            1
+         ],
          "Electronegativity":1.9,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -558,7 +673,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            2
+         ],
          "Electronegativity":1.65,
          "Melting-Point":419.53,
          "Boiling-Point":906.9,
@@ -577,7 +697,12 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 3",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            3
+         ],
          "Electronegativity":1.81,
          "Melting-Point":29.76,
          "Boiling-Point":2,
@@ -596,7 +721,12 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 4",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            4
+         ],
          "Electronegativity":2.01,
          "Melting-Point":938.25,
          "Boiling-Point":2,
@@ -615,7 +745,12 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 5",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            5
+         ],
          "Electronegativity":2.18,
          "Melting-Point":816.9,
          "Boiling-Point":614,
@@ -634,7 +769,12 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 6",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            6
+         ],
          "Electronegativity":2.55,
          "Melting-Point":221,
          "Boiling-Point":685,
@@ -653,7 +793,12 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Liquid",
-         "Energy-Levels":"2, 8, 18, 7",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            7
+         ],
          "Electronegativity":2.96,
          "Melting-Point":-7.35,
          "Boiling-Point":58.9,
@@ -672,7 +817,12 @@
       "Details":{
          "Metal-Type":"Noble gases",
          "State":"Gas",
-         "Energy-Levels":"2, 8, 18, 8",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            8
+         ],
          "Electronegativity":3,
          "Melting-Point":-157.36,
          "Boiling-Point":-153.22,
@@ -691,7 +841,13 @@
       "Details":{
          "Metal-Type":"Alkali metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 8, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            8,
+            1
+         ],
          "Electronegativity":0.82,
          "Melting-Point":39.31,
          "Boiling-Point":688,
@@ -710,7 +866,13 @@
       "Details":{
          "Metal-Type":"Alkaline earth metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            8,
+            2
+         ],
          "Electronegativity":0.95,
          "Melting-Point":776.9,
          "Boiling-Point":1,
@@ -729,7 +891,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            9,
+            2
+         ],
          "Electronegativity":1.22,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -748,7 +916,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 10, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            10,
+            2
+         ],
          "Electronegativity":1.33,
          "Melting-Point":1,
          "Boiling-Point":4,
@@ -767,7 +941,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 12, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            12,
+            1
+         ],
          "Electronegativity":1.6,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -786,7 +966,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 13, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            13,
+            1
+         ],
          "Electronegativity":2.16,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -805,7 +991,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 13, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            13,
+            2
+         ],
          "Electronegativity":1.9,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -824,7 +1016,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 15, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            15,
+            1
+         ],
          "Electronegativity":2.2,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -843,7 +1041,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 16, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            16,
+            1
+         ],
          "Electronegativity":2.28,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -862,7 +1066,12 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18
+         ],
          "Electronegativity":2.2,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -881,7 +1090,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            1
+         ],
          "Electronegativity":1.93,
          "Melting-Point":961.78,
          "Boiling-Point":2,
@@ -900,7 +1115,13 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            2
+         ],
          "Electronegativity":1.69,
          "Melting-Point":321.07,
          "Boiling-Point":766.9,
@@ -919,7 +1140,13 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 3",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            3
+         ],
          "Electronegativity":1.78,
          "Melting-Point":156.6,
          "Boiling-Point":2,
@@ -938,7 +1165,13 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 4",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            4
+         ],
          "Electronegativity":1.96,
          "Melting-Point":231.93,
          "Boiling-Point":2,
@@ -957,7 +1190,13 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 5",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            5
+         ],
          "Electronegativity":2.05,
          "Melting-Point":630.63,
          "Boiling-Point":1,
@@ -976,7 +1215,13 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 6",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            6
+         ],
          "Electronegativity":2.1,
          "Melting-Point":449.51,
          "Boiling-Point":987.9,
@@ -995,7 +1240,13 @@
       "Details":{
          "Metal-Type":"Reactive nonmetals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 7",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            7
+         ],
          "Electronegativity":2.66,
          "Melting-Point":113.7,
          "Boiling-Point":184.3,
@@ -1014,7 +1265,13 @@
       "Details":{
          "Metal-Type":"Noble gases",
          "State":"Gas",
-         "Energy-Levels":"2, 8, 18, 18, 8",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            8
+         ],
          "Electronegativity":2.6,
          "Melting-Point":-111.8,
          "Boiling-Point":-108,
@@ -1033,7 +1290,14 @@
       "Details":{
          "Metal-Type":"Alkali metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 8, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            8,
+            1
+         ],
          "Electronegativity":0.79,
          "Melting-Point":28.44,
          "Boiling-Point":671,
@@ -1052,7 +1316,14 @@
       "Details":{
          "Metal-Type":"Alkaline earth metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            8,
+            2
+         ],
          "Electronegativity":0.89,
          "Melting-Point":730,
          "Boiling-Point":1,
@@ -1071,7 +1342,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 18, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            18,
+            9,
+            2
+         ],
          "Electronegativity":1.1,
          "Melting-Point":919.9,
          "Boiling-Point":3,
@@ -1090,7 +1368,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 19, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            19,
+            9,
+            2
+         ],
          "Electronegativity":1.12,
          "Melting-Point":797.9,
          "Boiling-Point":3,
@@ -1109,7 +1394,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 21, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            21,
+            8,
+            2
+         ],
          "Electronegativity":1.13,
          "Melting-Point":930.9,
          "Boiling-Point":3,
@@ -1128,7 +1420,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 22, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            22,
+            8,
+            2
+         ],
          "Electronegativity":1.14,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1147,7 +1446,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 23, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            23,
+            8,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1166,7 +1472,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 24, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            24,
+            8,
+            2
+         ],
          "Electronegativity":1.17,
          "Melting-Point":1,
          "Boiling-Point":1,
@@ -1185,7 +1498,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 25, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            25,
+            8,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":821.9,
          "Boiling-Point":1,
@@ -1204,7 +1524,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 25, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            25,
+            9,
+            2
+         ],
          "Electronegativity":1.2,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1223,7 +1550,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 27, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            27,
+            8,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1242,7 +1576,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 28, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            28,
+            8,
+            2
+         ],
          "Electronegativity":1.22,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -1261,7 +1602,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 29, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            29,
+            8,
+            2
+         ],
          "Electronegativity":1.23,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -1280,7 +1628,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 30, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            30,
+            8,
+            2
+         ],
          "Electronegativity":1.24,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -1299,7 +1654,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 31, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            31,
+            8,
+            2
+         ],
          "Electronegativity":1.25,
          "Melting-Point":1,
          "Boiling-Point":1,
@@ -1318,7 +1680,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            8,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":818.9,
          "Boiling-Point":1,
@@ -1337,7 +1706,14 @@
       "Details":{
          "Metal-Type":"Lanthanoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            9,
+            2
+         ],
          "Electronegativity":1.27,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1356,7 +1732,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 10, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            10,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -1375,7 +1758,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 11, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            11,
+            2
+         ],
          "Electronegativity":1.5,
          "Melting-Point":3,
          "Boiling-Point":5,
@@ -1394,7 +1784,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 12, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            12,
+            2
+         ],
          "Electronegativity":2.36,
          "Melting-Point":3,
          "Boiling-Point":5,
@@ -1413,7 +1810,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 13, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            13,
+            2
+         ],
          "Electronegativity":1.9,
          "Melting-Point":3,
          "Boiling-Point":5,
@@ -1432,7 +1836,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 14, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            14,
+            2
+         ],
          "Electronegativity":2.2,
          "Melting-Point":3,
          "Boiling-Point":5,
@@ -1451,7 +1862,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 15, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            15,
+            2
+         ],
          "Electronegativity":2.2,
          "Melting-Point":2,
          "Boiling-Point":4,
@@ -1470,7 +1888,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 17, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            17,
+            1
+         ],
          "Electronegativity":2.28,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1489,7 +1914,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            1
+         ],
          "Electronegativity":2.54,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -1508,7 +1940,14 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Liquid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            2
+         ],
          "Electronegativity":2,
          "Melting-Point":-38.83,
          "Boiling-Point":356.73,
@@ -1527,7 +1966,14 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 3",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            3
+         ],
          "Electronegativity":1.62,
          "Melting-Point":304,
          "Boiling-Point":1,
@@ -1546,7 +1992,14 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 4",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            4
+         ],
          "Electronegativity":2.33,
          "Melting-Point":327.46,
          "Boiling-Point":1,
@@ -1565,7 +2018,14 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 5",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            5
+         ],
          "Electronegativity":2.02,
          "Melting-Point":271.3,
          "Boiling-Point":1,
@@ -1584,7 +2044,14 @@
       "Details":{
          "Metal-Type":"Post-transition metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 6",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            6
+         ],
          "Electronegativity":2,
          "Melting-Point":255,
          "Boiling-Point":961.9,
@@ -1603,7 +2070,14 @@
       "Details":{
          "Metal-Type":"Metalloids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 7",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            7
+         ],
          "Electronegativity":2.2,
          "Melting-Point":302,
          "Boiling-Point":350,
@@ -1622,7 +2096,14 @@
       "Details":{
          "Metal-Type":"Noble gases",
          "State":"Gas",
-         "Energy-Levels":"2, 8, 18, 32, 18, 8",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            8
+         ],
          "Electronegativity":null,
          "Melting-Point":-71.1,
          "Boiling-Point":-61.85,
@@ -1641,7 +2122,15 @@
       "Details":{
          "Metal-Type":"Alkali metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 8, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            1
+         ],
          "Electronegativity":0.7,
          "Melting-Point":20.9,
          "Boiling-Point":650,
@@ -1660,7 +2149,15 @@
       "Details":{
          "Metal-Type":"Alkaline earth metals",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+         ],
          "Electronegativity":0.9,
          "Melting-Point":700,
          "Boiling-Point":1,
@@ -1679,7 +2176,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            9,
+            2
+         ],
          "Electronegativity":1.1,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1698,7 +2203,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 18, 10, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            10,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":1,
          "Boiling-Point":4,
@@ -1717,7 +2230,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 20, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            20,
+            9,
+            2
+         ],
          "Electronegativity":1.5,
          "Melting-Point":1,
          "Boiling-Point":4,
@@ -1736,7 +2257,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 21, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            21,
+            9,
+            2
+         ],
          "Electronegativity":1.38,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1755,7 +2284,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 22, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            22,
+            9,
+            2
+         ],
          "Electronegativity":1.36,
          "Melting-Point":644,
          "Boiling-Point":4,
@@ -1774,7 +2311,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 24, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            24,
+            8,
+            2
+         ],
          "Electronegativity":1.28,
          "Melting-Point":640,
          "Boiling-Point":3,
@@ -1793,7 +2338,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 25, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            25,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":1,
          "Boiling-Point":2,
@@ -1812,7 +2365,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 25, 9, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            25,
+            9,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":1,
          "Boiling-Point":3,
@@ -1831,7 +2392,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 27, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            27,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":1,
          "Boiling-Point":null,
@@ -1850,7 +2419,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 28, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            28,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":899.9,
          "Boiling-Point":null,
@@ -1869,7 +2446,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 29, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            29,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":859.9,
          "Boiling-Point":null,
@@ -1888,7 +2473,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 30, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            30,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":1,
          "Boiling-Point":null,
@@ -1907,7 +2500,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 31, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            31,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":830,
          "Boiling-Point":null,
@@ -1926,7 +2527,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 32, 8, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            2
+         ],
          "Electronegativity":1.3,
          "Melting-Point":830,
          "Boiling-Point":null,
@@ -1945,7 +2554,15 @@
       "Details":{
          "Metal-Type":"Actinoids",
          "State":"Solid",
-         "Energy-Levels":"2, 8, 18, 32, 32, 8, 3",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            3
+         ],
          "Electronegativity":null,
          "Melting-Point":1,
          "Boiling-Point":null,
@@ -1964,7 +2581,15 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 10, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            10,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -1983,7 +2608,15 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 11, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            11,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2002,7 +2635,15 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 12, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            12,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2021,7 +2662,15 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 13, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            13,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2040,7 +2689,15 @@
       "Details":{
          "Metal-Type":"Transition metals",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 14, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            14,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2059,7 +2716,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 15, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            15,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2078,7 +2743,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 17, 1",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            17,
+            1
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2097,7 +2770,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 17, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            17,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2116,7 +2797,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 18, 2",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            2
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2135,7 +2824,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 18, 3",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            3
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2154,7 +2851,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 18, 4",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            4
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2173,7 +2878,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 18, 5",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            5
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2192,7 +2905,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 18, 6",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            6
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
@@ -2211,7 +2932,15 @@
       "Details":{
          "Metal-Type":"N/A",
          "State":"Unknown",
-         "Energy-Levels":"2, 8, 18, 32, 32, 18, 7",
+         "Energy-Levels":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            7
+         ],
          "Electronegativity":null,
          "Melting-Point":null,
          "Boiling-Point":null,
