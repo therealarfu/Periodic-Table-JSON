@@ -7,7 +7,7 @@
 ![Open Source](https://img.shields.io/badge/Open%20Source-FB542B?style=for-the-badge&logoColor=white)
 ![Version](https://img.shields.io/badge/Version%201.2-2962FF?style=for-the-badge&logoColor=white)
 <br/>
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](../actions)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](/../actions)
 
 # Periodic-Table-DB
 An JSON file of the Periodic Table
@@ -49,3 +49,5 @@ An JSON file of the Periodic Table
 | Radius | Returns a Radius of element | Float |
 | Density | Returns a Density of element | Float |
 | Discovered | Returns the year the element was discovered | String |
+
+[Back to Top](#table-of-contents)
