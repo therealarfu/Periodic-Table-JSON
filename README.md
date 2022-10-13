@@ -23,21 +23,21 @@ An JSON file of the Periodic Table
 > We plan to add more precise information to the elements of the periodic table, not just about mass or electrons.
 
 ## Overview
-> Short Version
+
+> Data
 
 | Name | Description | Type |
 | --- | --- | --- |
 | Element | Returns a name of element | String |
 | Symbol | Returns a symbol of element| String |
 | Atomic-Number | Returns a atomic number of element | Integer |
-| Weight | Returns a weight of element | String |
+| Weight | Returns a weight of element | Integer |
 | Group | Only for (Position) | String |
 | Period | Only for (Position) | String |
 | Family | Only for (Position) | String |
-| Electrons | Only for (Electrons) | String |
-| Details | Only for (Series) | Array |
+| Details | Not avaliable for Compounds | Array |
 
-> Detailed Version (Detailed)
+> Details
 
 | Name | Description | Type |
 | --- | --- | --- |
@@ -52,5 +52,14 @@ An JSON file of the Periodic Table
 | Radius | Returns a Radius of element | Float |
 | Density | Returns a Density of element | Float |
 | Discovered | Returns the year the element was discovered | String |
+
+> Expanded Details (Electrons)
+
+| Name | Description | Type |
+| --- | --- | --- |
+| Oxidation-States | Returns a oxidation states of element | Array |
+| Configuration | Returns a configuration of element | Array |
+| Expanded | Returns a extra states of element | Array |
+| HOAO | Returns a quantic numbers of element | Array |
 
 [Back to Top](#table-of-contents)

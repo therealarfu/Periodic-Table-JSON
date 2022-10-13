@@ -2,709 +2,3187 @@
    {
       "Element":"Hydrogen",
       "Symbol":"H",
-      "Atomic-Number":"1",
-      "Electrons":"-1 1"
+      "Atomic-Number":1,
+      "Weight":1.008,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Hydrogen"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            1
+         ],
+         "HOAO":[
+            1
+         ]
+      }
    },
    {
       "Element":"Helium",
       "Symbol":"He",
-      "Atomic-Number":"2",
-      "Electrons":" "
+      "Atomic-Number":2,
+      "Weight":4.0026,
+      "Details":{
+         "Oxidation-States":[
+            "Noble gases"
+         ],
+         "Configuration":[
+            "Helium"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            4
+         ],
+         "HOAO":[
+            2
+         ]
+      }
    },
    {
       "Element":"Lithium",
       "Symbol":"Li",
-      "Atomic-Number":"3",
-      "Electrons":"1"
+      "Atomic-Number":3,
+      "Weight":6.94,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Lithium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            6
+         ],
+         "HOAO":[
+            2,
+            1
+         ]
+      }
    },
    {
       "Element":"Beryllium",
       "Symbol":"Be",
-      "Atomic-Number":"4",
-      "Electrons":"2"
+      "Atomic-Number":4,
+      "Weight":9.0122,
+      "Details":{
+         "Oxidation-States":[
+            "Alkaline earth metals"
+         ],
+         "Configuration":[
+            "Beryllium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            9
+         ],
+         "HOAO":[
+            2,
+            2
+         ]
+      }
    },
    {
       "Element":"Boron",
       "Symbol":"B",
-      "Atomic-Number":"5",
-      "Electrons":"3"
+      "Atomic-Number":5,
+      "Weight":10.81,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Boron"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            10
+         ],
+         "HOAO":[
+            2,
+            3
+         ]
+      }
    },
    {
       "Element":"Carbon",
       "Symbol":"C",
-      "Atomic-Number":"6",
-      "Electrons":"-4 4"
+      "Atomic-Number":6,
+      "Weight":12.011,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Carbon"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            12
+         ],
+         "HOAO":[
+            2,
+            4
+         ]
+      }
    },
    {
       "Element":"Nitrogen",
       "Symbol":"N",
-      "Atomic-Number":"7",
-      "Electrons":"-3 3 5"
+      "Atomic-Number":7,
+      "Weight":14.007,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Nitrogen"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            14
+         ],
+         "HOAO":[
+            2,
+            5
+         ]
+      }
    },
    {
       "Element":"Oxygen",
       "Symbol":"O",
-      "Atomic-Number":"8",
-      "Electrons":"-2"
+      "Atomic-Number":8,
+      "Weight":15.999,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Oxygen"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            15
+         ],
+         "HOAO":[
+            2,
+            6
+         ]
+      }
    },
    {
       "Element":"Fluorine",
       "Symbol":"F",
-      "Atomic-Number":"9",
-      "Electrons":"-1"
+      "Atomic-Number":9,
+      "Weight":18.998,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Fluorine"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            18
+         ],
+         "HOAO":[
+            2,
+            7
+         ]
+      }
    },
    {
       "Element":"Neon",
       "Symbol":"Ne",
-      "Atomic-Number":"10",
-      "Electrons":" "
+      "Atomic-Number":10,
+      "Weight":20.18,
+      "Details":{
+         "Oxidation-States":[
+            "Noble gases"
+         ],
+         "Configuration":[
+            "Neon"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            20
+         ],
+         "HOAO":[
+            2,
+            8
+         ]
+      }
    },
    {
       "Element":"Sodium",
       "Symbol":"Na",
-      "Atomic-Number":"11",
-      "Electrons":"1"
+      "Atomic-Number":11,
+      "Weight":22.99,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Sodium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            22
+         ],
+         "HOAO":[
+            2,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Magnesium",
       "Symbol":"Mg",
-      "Atomic-Number":"12",
-      "Electrons":"2"
+      "Atomic-Number":12,
+      "Weight":24.305,
+      "Details":{
+         "Oxidation-States":[
+            "Alkaline earth metals"
+         ],
+         "Configuration":[
+            "Magnesium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            24
+         ],
+         "HOAO":[
+            2,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Aluminium",
       "Symbol":"Al",
-      "Atomic-Number":"13",
-      "Electrons":"3"
+      "Atomic-Number":13,
+      "Weight":26.982,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Aluminium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            26
+         ],
+         "HOAO":[
+            2,
+            8,
+            3
+         ]
+      }
    },
    {
       "Element":"Silicon",
       "Symbol":"Si",
-      "Atomic-Number":"14",
-      "Electrons":"-4 4"
+      "Atomic-Number":14,
+      "Weight":28.085,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Silicon"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            28
+         ],
+         "HOAO":[
+            2,
+            8,
+            4
+         ]
+      }
    },
    {
       "Element":"Phosphorus",
       "Symbol":"P",
-      "Atomic-Number":"15",
-      "Electrons":"-3 3 5"
+      "Atomic-Number":15,
+      "Weight":30.974,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Phosphorus"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            30
+         ],
+         "HOAO":[
+            2,
+            8,
+            5
+         ]
+      }
    },
    {
       "Element":"Sulfur",
       "Symbol":"S",
-      "Atomic-Number":"16",
-      "Electrons":"-2 2 4 6"
+      "Atomic-Number":16,
+      "Weight":32.06,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Sulfur"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            32
+         ],
+         "HOAO":[
+            2,
+            8,
+            6
+         ]
+      }
    },
    {
       "Element":"Chlorine",
       "Symbol":"Cl",
-      "Atomic-Number":"17",
-      "Electrons":"-1 1 3 5 7"
+      "Atomic-Number":17,
+      "Weight":35.45,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Chlorine"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            35
+         ],
+         "HOAO":[
+            2,
+            8,
+            7
+         ]
+      }
    },
    {
       "Element":"Argon",
       "Symbol":"Ar",
-      "Atomic-Number":"18",
-      "Electrons":" "
+      "Atomic-Number":18,
+      "Weight":39.948,
+      "Details":{
+         "Oxidation-States":[
+            "Noble gases"
+         ],
+         "Configuration":[
+            "Argon"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            39
+         ],
+         "HOAO":[
+            2,
+            8,
+            8
+         ]
+      }
    },
    {
       "Element":"Potassium",
       "Symbol":"K",
-      "Atomic-Number":"19",
-      "Electrons":"1"
+      "Atomic-Number":19,
+      "Weight":39.098,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Potassium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            39
+         ],
+         "HOAO":[
+            2,
+            8,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Calcium",
       "Symbol":"Ca",
-      "Atomic-Number":"20",
-      "Electrons":"2"
+      "Atomic-Number":20,
+      "Weight":40.078,
+      "Details":{
+         "Oxidation-States":[
+            "Alkaline earth metals"
+         ],
+         "Configuration":[
+            "Calcium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            40
+         ],
+         "HOAO":[
+            2,
+            8,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Scandium",
       "Symbol":"Sc",
-      "Atomic-Number":"21",
-      "Electrons":"3"
+      "Atomic-Number":21,
+      "Weight":44.956,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Scandium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            44
+         ],
+         "HOAO":[
+            2,
+            8,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Titanium",
       "Symbol":"Ti",
-      "Atomic-Number":"22",
-      "Electrons":"4"
+      "Atomic-Number":22,
+      "Weight":47.867,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Titanium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            47
+         ],
+         "HOAO":[
+            2,
+            8,
+            10,
+            2
+         ]
+      }
    },
    {
       "Element":"Vanadium",
       "Symbol":"V",
-      "Atomic-Number":"23",
-      "Electrons":"5"
+      "Atomic-Number":23,
+      "Weight":50.942,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Vanadium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            50
+         ],
+         "HOAO":[
+            2,
+            8,
+            11,
+            2
+         ]
+      }
    },
    {
       "Element":"Chromium",
       "Symbol":"Cr",
-      "Atomic-Number":"24",
-      "Electrons":"3 6"
+      "Atomic-Number":24,
+      "Weight":51.996,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Chromium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            51
+         ],
+         "HOAO":[
+            2,
+            8,
+            13,
+            1
+         ]
+      }
    },
    {
       "Element":"Manganese",
       "Symbol":"Mn",
-      "Atomic-Number":"25",
-      "Electrons":"2 4 7"
+      "Atomic-Number":25,
+      "Weight":54.938,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Manganese"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            54
+         ],
+         "HOAO":[
+            2,
+            8,
+            13,
+            2
+         ]
+      }
    },
    {
       "Element":"Iron",
       "Symbol":"Fe",
-      "Atomic-Number":"26",
-      "Electrons":"2 3"
+      "Atomic-Number":26,
+      "Weight":55.845,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Iron"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            55
+         ],
+         "HOAO":[
+            2,
+            8,
+            14,
+            2
+         ]
+      }
    },
    {
       "Element":"Cobalt",
       "Symbol":"Co",
-      "Atomic-Number":"27",
-      "Electrons":"2 3"
+      "Atomic-Number":27,
+      "Weight":58.933,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Cobalt"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            58
+         ],
+         "HOAO":[
+            2,
+            8,
+            15,
+            2
+         ]
+      }
    },
    {
       "Element":"Nickel",
       "Symbol":"Ni",
-      "Atomic-Number":"28",
-      "Electrons":"2"
+      "Atomic-Number":28,
+      "Weight":58.693,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Nickel"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            58
+         ],
+         "HOAO":[
+            2,
+            8,
+            16,
+            2
+         ]
+      }
    },
    {
       "Element":"Copper",
       "Symbol":"Cu",
-      "Atomic-Number":"29",
-      "Electrons":"2"
+      "Atomic-Number":29,
+      "Weight":63.546,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Copper"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            63
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            1
+         ]
+      }
    },
    {
       "Element":"Zinc",
       "Symbol":"Zn",
-      "Atomic-Number":"30",
-      "Electrons":"2"
+      "Atomic-Number":30,
+      "Weight":65.38,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Zinc"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            65
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            2
+         ]
+      }
    },
    {
       "Element":"Gallium",
       "Symbol":"Ga",
-      "Atomic-Number":"31",
-      "Electrons":"3"
+      "Atomic-Number":31,
+      "Weight":69.723,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Gallium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            69
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            3
+         ]
+      }
    },
    {
       "Element":"Germanium",
       "Symbol":"Ge",
-      "Atomic-Number":"32",
-      "Electrons":"-4 2 4"
+      "Atomic-Number":32,
+      "Weight":72.63,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Germanium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            72
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            4
+         ]
+      }
    },
    {
       "Element":"Arsenic",
       "Symbol":"As",
-      "Atomic-Number":"33",
-      "Electrons":"-3 3 5"
+      "Atomic-Number":33,
+      "Weight":74.922,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Arsenic"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            74
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            5
+         ]
+      }
    },
    {
       "Element":"Selenium",
       "Symbol":"Se",
-      "Atomic-Number":"34",
-      "Electrons":"-2 2 4 6"
+      "Atomic-Number":34,
+      "Weight":78.971,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Selenium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            78
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            6
+         ]
+      }
    },
    {
       "Element":"Bromine",
       "Symbol":"Br",
-      "Atomic-Number":"35",
-      "Electrons":"-1 1 3 5"
+      "Atomic-Number":35,
+      "Weight":79.904,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Bromine"
+         ],
+         "Expanded":[
+            "Liquid"
+         ],
+         "Energy-Levels":[
+            79
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            7
+         ]
+      }
    },
    {
       "Element":"Krypton",
       "Symbol":"Kr",
-      "Atomic-Number":"36",
-      "Electrons":"2"
+      "Atomic-Number":36,
+      "Weight":83.798,
+      "Details":{
+         "Oxidation-States":[
+            "Noble gases"
+         ],
+         "Configuration":[
+            "Krypton"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            83
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            8
+         ]
+      }
    },
    {
       "Element":"Rubidium",
       "Symbol":"Rb",
-      "Atomic-Number":"37",
-      "Electrons":"1"
+      "Atomic-Number":37,
+      "Weight":85.468,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Rubidium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            85
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Strontium",
       "Symbol":"Sr",
-      "Atomic-Number":"38",
-      "Electrons":"2"
+      "Atomic-Number":38,
+      "Weight":85.468,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Rubidium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            85
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Yttrium",
       "Symbol":"Y",
-      "Atomic-Number":"39",
-      "Electrons":"3"
+      "Atomic-Number":39,
+      "Weight":85.468,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Rubidium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            85
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Zirconium",
       "Symbol":"Zr",
-      "Atomic-Number":"40",
-      "Electrons":"4"
+      "Atomic-Number":40,
+      "Weight":85.468,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Rubidium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            85
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Niobium",
       "Symbol":"Nb",
-      "Atomic-Number":"41",
-      "Electrons":"5"
+      "Atomic-Number":41,
+      "Weight":85.468,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Rubidium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            85
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Molybdenum",
       "Symbol":"Mo",
-      "Atomic-Number":"42",
-      "Electrons":"4 6"
+      "Atomic-Number":42,
+      "Weight":95.95,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Molybdenum"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            95
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            13,
+            1
+         ]
+      }
    },
    {
       "Element":"Technetium",
       "Symbol":"Tc",
-      "Atomic-Number":"43",
-      "Electrons":"4 7"
+      "Atomic-Number":43,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Technetium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            98
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            13,
+            2
+         ]
+      }
    },
    {
       "Element":"Ruthenium",
       "Symbol":"Ru",
-      "Atomic-Number":"44",
-      "Electrons":"3 4"
+      "Atomic-Number":44,
+      "Weight":101.07,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Ruthenium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            101
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            15,
+            1
+         ]
+      }
    },
    {
       "Element":"Rhodium",
       "Symbol":"Rh",
-      "Atomic-Number":"45",
-      "Electrons":"3"
+      "Atomic-Number":45,
+      "Weight":102.91,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Rhodium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            102
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            16,
+            1
+         ]
+      }
    },
    {
       "Element":"Palladium",
       "Symbol":"Pd",
-      "Atomic-Number":"46",
-      "Electrons":"2 4"
+      "Atomic-Number":46,
+      "Weight":106.42,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Palladium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            106
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18
+         ]
+      }
    },
    {
       "Element":"Silver",
       "Symbol":"Ag",
-      "Atomic-Number":"47",
-      "Electrons":"1"
+      "Atomic-Number":47,
+      "Weight":107.87,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Silver"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            107
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            1
+         ]
+      }
    },
    {
       "Element":"Cadmium",
       "Symbol":"Cd",
-      "Atomic-Number":"48",
-      "Electrons":"2"
+      "Atomic-Number":48,
+      "Weight":112.41,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Cadmium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            112
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            2
+         ]
+      }
    },
    {
       "Element":"Indium",
       "Symbol":"In",
-      "Atomic-Number":"49",
-      "Electrons":"3"
+      "Atomic-Number":49,
+      "Weight":114.82,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Indium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            114
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            3
+         ]
+      }
    },
    {
       "Element":"Tin",
       "Symbol":"Sn",
-      "Atomic-Number":"50",
-      "Electrons":"-4 2 4"
+      "Atomic-Number":50,
+      "Weight":118.71,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Tin"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            118
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            4
+         ]
+      }
    },
    {
       "Element":"Antimony",
       "Symbol":"Sb",
-      "Atomic-Number":"51",
-      "Electrons":"-3 3 5"
+      "Atomic-Number":51,
+      "Weight":121.76,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Antimony"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            121
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            5
+         ]
+      }
    },
    {
       "Element":"Tellurium",
       "Symbol":"Te",
-      "Atomic-Number":"52",
-      "Electrons":"-2 2 4 6"
+      "Atomic-Number":52,
+      "Weight":127.6,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Tellurium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            127
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            6
+         ]
+      }
    },
    {
       "Element":"Iodine",
       "Symbol":"I",
-      "Atomic-Number":"53",
-      "Electrons":"-1 1 3 5 7"
+      "Atomic-Number":53,
+      "Weight":126.9,
+      "Details":{
+         "Oxidation-States":[
+            "Reactive nonmetals"
+         ],
+         "Configuration":[
+            "Iodine"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            126
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            7
+         ]
+      }
    },
    {
       "Element":"Xenon",
       "Symbol":"Xe",
-      "Atomic-Number":"54",
-      "Electrons":"2 4 6"
+      "Atomic-Number":54,
+      "Weight":131.29,
+      "Details":{
+         "Oxidation-States":[
+            "Noble gases"
+         ],
+         "Configuration":[
+            "Xenon"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            131
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            8
+         ]
+      }
    },
    {
       "Element":"Caesium",
       "Symbol":"Cs",
-      "Atomic-Number":"55",
-      "Electrons":"1"
+      "Atomic-Number":55,
+      "Weight":132.91,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Caesium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            132
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Barium",
       "Symbol":"Ba",
-      "Atomic-Number":"56",
-      "Electrons":"2"
+      "Atomic-Number":56,
+      "Weight":137.33,
+      "Details":{
+         "Oxidation-States":[
+            "Alkaline earth metals"
+         ],
+         "Configuration":[
+            "Barium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            137
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Lanthanum",
       "Symbol":"La",
-      "Atomic-Number":"57",
-      "Electrons":"3"
+      "Atomic-Number":57,
+      "Weight":138.91,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Lanthanum"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            138
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            18,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Cerium",
       "Symbol":"Ce",
-      "Atomic-Number":"58",
-      "Electrons":"3 4"
+      "Atomic-Number":58,
+      "Weight":140.12,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Cerium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            140
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            19,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Praseodymium",
       "Symbol":"Pr",
-      "Atomic-Number":"59",
-      "Electrons":"3"
+      "Atomic-Number":59,
+      "Weight":140.91,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Praseodymium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            140
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            21,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Neodymium",
       "Symbol":"Nd",
-      "Atomic-Number":"60",
-      "Electrons":"3"
+      "Atomic-Number":60,
+      "Weight":144.24,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Neodymium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            144
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            22,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Promethium",
       "Symbol":"Pm",
-      "Atomic-Number":"61",
-      "Electrons":"3"
+      "Atomic-Number":61,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Promethium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            145
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            23,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Samarium",
       "Symbol":"Sm",
-      "Atomic-Number":"62",
-      "Electrons":"3"
+      "Atomic-Number":62,
+      "Weight":150.36,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Samarium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            150
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            24,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Europium",
       "Symbol":"Eu",
-      "Atomic-Number":"63",
-      "Electrons":"2 3"
+      "Atomic-Number":63,
+      "Weight":151.96,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Europium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            151
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            25,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Gadolinium",
       "Symbol":"Gd",
-      "Atomic-Number":"64",
-      "Electrons":"3"
+      "Atomic-Number":64,
+      "Weight":157.25,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Gadolinium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            157
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            25,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Terbium",
       "Symbol":"Tb",
-      "Atomic-Number":"65",
-      "Electrons":"3"
+      "Atomic-Number":65,
+      "Weight":158.93,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Terbium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            158
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            27,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Dysprosium",
       "Symbol":"Dy",
-      "Atomic-Number":"66",
-      "Electrons":"3"
+      "Atomic-Number":66,
+      "Weight":162.5,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Dysprosium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            162
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            28,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Holmium",
       "Symbol":"Ho",
-      "Atomic-Number":"67",
-      "Electrons":"3"
+      "Atomic-Number":67,
+      "Weight":164.93,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Holmium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            164
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            29,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Erbium",
       "Symbol":"Er",
-      "Atomic-Number":"68",
-      "Electrons":"3"
+      "Atomic-Number":68,
+      "Weight":167.26,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Erbium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            167
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            30,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Thulium",
       "Symbol":"Tm",
-      "Atomic-Number":"69",
-      "Electrons":"3"
+      "Atomic-Number":69,
+      "Weight":168.93,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Thulium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            168
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            31,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Ytterbium",
       "Symbol":"Yb",
-      "Atomic-Number":"70",
-      "Electrons":"3"
+      "Atomic-Number":70,
+      "Weight":173.05,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Ytterbium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            173
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Lutetium",
       "Symbol":"Lu",
-      "Atomic-Number":"71",
-      "Electrons":"3"
+      "Atomic-Number":71,
+      "Weight":174.97,
+      "Details":{
+         "Oxidation-States":[
+            "Lanthanoids"
+         ],
+         "Configuration":[
+            "Lutetium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            174
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Hafnium",
       "Symbol":"Hf",
-      "Atomic-Number":"72",
-      "Electrons":"4"
+      "Atomic-Number":72,
+      "Weight":178.49,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Hafnium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            178
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            10,
+            2
+         ]
+      }
    },
    {
       "Element":"Tantalum",
       "Symbol":"Ta",
-      "Atomic-Number":"73",
-      "Electrons":"5"
+      "Atomic-Number":73,
+      "Weight":180.95,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Tantalum"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            180
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            11,
+            2
+         ]
+      }
    },
    {
       "Element":"Tungsten",
       "Symbol":"W",
-      "Atomic-Number":"74",
-      "Electrons":"4 6"
+      "Atomic-Number":74,
+      "Weight":183.84,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Tungsten"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            183
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            12,
+            2
+         ]
+      }
    },
    {
       "Element":"Rhenium",
       "Symbol":"Re",
-      "Atomic-Number":"75",
-      "Electrons":"4"
+      "Atomic-Number":75,
+      "Weight":186.21,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Rhenium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            186
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            13,
+            2
+         ]
+      }
    },
    {
       "Element":"Osmium",
       "Symbol":"Os",
-      "Atomic-Number":"76",
-      "Electrons":"4"
+      "Atomic-Number":76,
+      "Weight":190.23,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Osmium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            190
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            14,
+            2
+         ]
+      }
    },
    {
       "Element":"Iridium",
       "Symbol":"Ir",
-      "Atomic-Number":"77",
-      "Electrons":"3 4"
+      "Atomic-Number":77,
+      "Weight":192.22,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Iridium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            192
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            15,
+            2
+         ]
+      }
    },
    {
       "Element":"Platinum",
       "Symbol":"Pt",
-      "Atomic-Number":"78",
-      "Electrons":"2 4"
+      "Atomic-Number":78,
+      "Weight":195.08,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Platinum"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            195
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            17,
+            1
+         ]
+      }
    },
    {
       "Element":"Gold",
       "Symbol":"Au",
-      "Atomic-Number":"79",
-      "Electrons":"3"
+      "Atomic-Number":79,
+      "Weight":196.97,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Gold"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            196
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            1
+         ]
+      }
    },
    {
       "Element":"Mercury",
       "Symbol":"Hg",
-      "Atomic-Number":"80",
-      "Electrons":"1 2"
+      "Atomic-Number":80,
+      "Weight":200.59,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Mercury"
+         ],
+         "Expanded":[
+            "Liquid"
+         ],
+         "Energy-Levels":[
+            200
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            2
+         ]
+      }
    },
    {
       "Element":"Thallium",
       "Symbol":"Tl",
-      "Atomic-Number":"81",
-      "Electrons":"1 3"
+      "Atomic-Number":81,
+      "Weight":204.38,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Thallium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            204
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            3
+         ]
+      }
    },
    {
       "Element":"Lead",
       "Symbol":"Pb",
-      "Atomic-Number":"82",
-      "Electrons":"2 4"
+      "Atomic-Number":82,
+      "Weight":207.2,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Lead"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            207
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            4
+         ]
+      }
    },
    {
       "Element":"Bismuth",
       "Symbol":"Bi",
-      "Atomic-Number":"83",
-      "Electrons":"3"
+      "Atomic-Number":83,
+      "Weight":208.98,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Bismuth"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            208
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            5
+         ]
+      }
    },
    {
       "Element":"Polonium",
       "Symbol":"Po",
-      "Atomic-Number":"84",
-      "Electrons":"-2 2 4"
+      "Atomic-Number":84,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Post-transition metals"
+         ],
+         "Configuration":[
+            "Polonium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            209
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            6
+         ]
+      }
    },
    {
       "Element":"Astatine",
       "Symbol":"At",
-      "Atomic-Number":"85",
-      "Electrons":"-1 1"
+      "Atomic-Number":85,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Metalloids"
+         ],
+         "Configuration":[
+            "Astatine"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            210
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            7
+         ]
+      }
    },
    {
       "Element":"Radon",
       "Symbol":"Rn",
-      "Atomic-Number":"86",
-      "Electrons":"2"
+      "Atomic-Number":86,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Noble gases"
+         ],
+         "Configuration":[
+            "Radon"
+         ],
+         "Expanded":[
+            "Gas"
+         ],
+         "Energy-Levels":[
+            222
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            8
+         ]
+      }
    },
    {
       "Element":"Francium",
       "Symbol":"Fr",
-      "Atomic-Number":"87",
-      "Electrons":"1"
+      "Atomic-Number":87,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Alkali metals"
+         ],
+         "Configuration":[
+            "Francium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            223
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            1
+         ]
+      }
    },
    {
       "Element":"Radium",
       "Symbol":"Ra",
-      "Atomic-Number":"88",
-      "Electrons":"2"
+      "Atomic-Number":88,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Alkaline earth metals"
+         ],
+         "Configuration":[
+            "Radium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            226
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Actinium",
       "Symbol":"Ac",
-      "Atomic-Number":"89",
-      "Electrons":"3"
+      "Atomic-Number":89,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Actinium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            227
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Thorium",
       "Symbol":"Th",
-      "Atomic-Number":"90",
-      "Electrons":"4"
+      "Atomic-Number":90,
+      "Weight":232.04,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Thorium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            232
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            18,
+            10,
+            2
+         ]
+      }
    },
    {
       "Element":"Protactinium",
       "Symbol":"Pa",
-      "Atomic-Number":"91",
-      "Electrons":"5"
+      "Atomic-Number":91,
+      "Weight":231.04,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Protactinium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            231
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            20,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Uranium",
       "Symbol":"U",
-      "Atomic-Number":"92",
-      "Electrons":"6"
+      "Atomic-Number":92,
+      "Weight":238.03,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Uranium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            238
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            21,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Neptunium",
       "Symbol":"Np",
-      "Atomic-Number":"93",
-      "Electrons":"5"
+      "Atomic-Number":93,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Neptunium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            237
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            22,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Plutonium",
       "Symbol":"Pu",
-      "Atomic-Number":"94",
-      "Electrons":"4"
+      "Atomic-Number":94,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Plutonium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            244
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            24,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Americium",
       "Symbol":"Am",
-      "Atomic-Number":"95",
-      "Electrons":"3"
+      "Atomic-Number":95,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Americium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            243
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            25,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Curium",
       "Symbol":"Cm",
-      "Atomic-Number":"96",
-      "Electrons":"3"
+      "Atomic-Number":96,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Curium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            247
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            25,
+            9,
+            2
+         ]
+      }
    },
    {
       "Element":"Berkelium",
       "Symbol":"Bk",
-      "Atomic-Number":"97",
-      "Electrons":"3"
+      "Atomic-Number":97,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Berkelium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            247
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            27,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Californium",
       "Symbol":"Cf",
-      "Atomic-Number":"98",
-      "Electrons":"3"
+      "Atomic-Number":98,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Californium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            251
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            28,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Einsteinium",
       "Symbol":"Es",
-      "Atomic-Number":"99",
-      "Electrons":"3"
+      "Atomic-Number":99,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Einsteinium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            252
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            29,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Fermium",
       "Symbol":"Fm",
-      "Atomic-Number":"100",
-      "Electrons":"3"
+      "Atomic-Number":100,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Fermium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            257
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            30,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Mendelevium",
       "Symbol":"Md",
-      "Atomic-Number":"101",
-      "Electrons":"3"
+      "Atomic-Number":101,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Mendelevium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            258
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            31,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Nobelium",
       "Symbol":"No",
-      "Atomic-Number":"102",
-      "Electrons":"2"
+      "Atomic-Number":102,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Nobelium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            259
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            2
+         ]
+      }
    },
    {
       "Element":"Lawrencium",
       "Symbol":"Lr",
-      "Atomic-Number":"103",
-      "Electrons":"3"
+      "Atomic-Number":103,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Actinoids"
+         ],
+         "Configuration":[
+            "Lawrencium"
+         ],
+         "Expanded":[
+            "Solid"
+         ],
+         "Energy-Levels":[
+            266
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            8,
+            3
+         ]
+      }
    },
    {
       "Element":"Rutherfordium",
       "Symbol":"Rf",
-      "Atomic-Number":"104",
-      "Electrons":"4"
+      "Atomic-Number":104,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Rutherfordium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            267
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            10,
+            2
+         ]
+      }
    },
    {
       "Element":"Dubnium",
       "Symbol":"Db",
-      "Atomic-Number":"105",
-      "Electrons":"5"
+      "Atomic-Number":105,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Dubnium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            268
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            11,
+            2
+         ]
+      }
    },
    {
       "Element":"Seaborgium",
       "Symbol":"Sg",
-      "Atomic-Number":"106",
-      "Electrons":"6"
+      "Atomic-Number":106,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Seaborgium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            269
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            12,
+            2
+         ]
+      }
    },
    {
       "Element":"Bohrium",
       "Symbol":"Bh",
-      "Atomic-Number":"107",
-      "Electrons":"7"
+      "Atomic-Number":107,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Bohrium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            270
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            13,
+            2
+         ]
+      }
    },
    {
       "Element":"Hassium",
       "Symbol":"Hs",
-      "Atomic-Number":"108",
-      "Electrons":"8"
+      "Atomic-Number":108,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "Transition metals"
+         ],
+         "Configuration":[
+            "Hassium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            270
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            14,
+            2
+         ]
+      }
    },
    {
       "Element":"Meitnerium",
       "Symbol":"Mt",
-      "Atomic-Number":"109",
-      "Electrons":" "
+      "Atomic-Number":109,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Meitnerium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            278
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            15,
+            2
+         ]
+      }
    },
    {
       "Element":"Darmstadtium",
       "Symbol":"Ds",
-      "Atomic-Number":"110",
-      "Electrons":" "
+      "Atomic-Number":110,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Darmstadtium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            281
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            17,
+            1
+         ]
+      }
    },
    {
       "Element":"Roentgenium",
       "Symbol":"Rg",
-      "Atomic-Number":"111",
-      "Electrons":" "
+      "Atomic-Number":111,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Roentgenium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            282
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            17,
+            2
+         ]
+      }
    },
    {
       "Element":"Copernicium",
       "Symbol":"Cn",
-      "Atomic-Number":"112",
-      "Electrons":" "
+      "Atomic-Number":112,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Copernicium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            285
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            2
+         ]
+      }
    },
    {
       "Element":"Nihonium",
       "Symbol":"Nh",
-      "Atomic-Number":"113",
-      "Electrons":" "
+      "Atomic-Number":113,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Nihonium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            286
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            3
+         ]
+      }
    },
    {
       "Element":"Flerovium",
       "Symbol":"Fl",
-      "Atomic-Number":"114",
-      "Electrons":" "
+      "Atomic-Number":114,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Flerovium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            289
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            4
+         ]
+      }
    },
    {
       "Element":"Moscovium",
       "Symbol":"Mc",
-      "Atomic-Number":"115",
-      "Electrons":" "
+      "Atomic-Number":115,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Moscovium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            290
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            5
+         ]
+      }
    },
    {
       "Element":"Livermorium",
       "Symbol":"Lv",
-      "Atomic-Number":"116",
-      "Electrons":" "
+      "Atomic-Number":116,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Livermorium"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            293
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            6
+         ]
+      }
    },
    {
       "Element":"Tennessine",
       "Symbol":"Ts",
-      "Atomic-Number":"117",
-      "Electrons":" "
-   },
-   {
-      "Element":"Oganesson",
-      "Symbol":"Og",
-      "Atomic-Number":"118",
-      "Electrons":" "
+      "Atomic-Number":117,
+      "Weight":null,
+      "Details":{
+         "Oxidation-States":[
+            "N/A"
+         ],
+         "Configuration":[
+            "Tennessine"
+         ],
+         "Expanded":[
+            "Unknown"
+         ],
+         "Energy-Levels":[
+            294
+         ],
+         "HOAO":[
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            7
+         ]
+      }
    }
 ]
