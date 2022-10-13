@@ -23,6 +23,7 @@ An JSON file of the Periodic Table
 > We plan to add more precise information to the elements of the periodic table, not just about mass or electrons.
 
 ## Overview
+
 > Data
 
 | Name | Description | Type |
@@ -54,6 +55,7 @@ An JSON file of the Periodic Table
 | Discovered | Returns the year the element was discovered | String |
 
 > Expanded Details (Electrons)
+
 | Name | Description | Type |
 | --- | --- | --- |
 | Oxidation-States | Returns a oxidation states of element | Array |
