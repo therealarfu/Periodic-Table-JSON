@@ -1,0 +1,242 @@
+[
+
+    {
+        "Element":"Scandium",
+        "Symbol":"Sc",
+        "Atomic-Number":"21",
+        "Weight":"28",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Titanium",
+        "Symbol":"Ti",
+        "Atomic-Number":"22",
+        "Weight":"106",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Vanadium",
+        "Symbol":"V",
+        "Atomic-Number":"23",
+        "Weight":"112",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Chromium",
+        "Symbol":"Cr",
+        "Atomic-Number":"24",
+        "Weight":"166",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Manganese",
+        "Symbol":"Mn",
+        "Atomic-Number":"25",
+        "Weight":"89",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Iron",
+        "Symbol":"Fe",
+        "Atomic-Number":"26",
+        "Weight":"332",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Cobalt",
+        "Symbol":"Co",
+        "Atomic-Number":"27",
+        "Weight":"182",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Nickel",
+        "Symbol":"Ni",
+        "Atomic-Number":"28",
+        "Weight":"117",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Copper",
+        "Symbol":"Cu",
+        "Atomic-Number":"29",
+        "Weight":"191",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Zinc",
+        "Symbol":"Zn",
+        "Atomic-Number":"30",
+        "Weight":"291",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Yttrium",
+        "Symbol":"Y",
+        "Atomic-Number":"39",
+        "Weight":"43",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Zirconium",
+        "Symbol":"Zr",
+        "Atomic-Number":"40",
+        "Weight":"102",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Niobium",
+        "Symbol":"Nb",
+        "Atomic-Number":"41",
+        "Weight":"52",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Molybdenum",
+        "Symbol":"Mo",
+        "Atomic-Number":"42",
+        "Weight":"81",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Technetium",
+        "Symbol":"Tc",
+        "Atomic-Number":"43",
+        "Weight":"4",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Ruthenium",
+        "Symbol":"Ru",
+        "Atomic-Number":"44",
+        "Weight":"76",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Rhodium",
+        "Symbol":"Rh",
+        "Atomic-Number":"45",
+        "Weight":"83",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Palladium",
+        "Symbol":"Pd",
+        "Atomic-Number":"46",
+        "Weight":"87",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Silver",
+        "Symbol":"Ag",
+        "Atomic-Number":"47",
+        "Weight":"77",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Cadmium",
+        "Symbol":"Cd",
+        "Atomic-Number":"48",
+        "Weight":"79",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Hafnium",
+        "Symbol":"Hf",
+        "Atomic-Number":"72",
+        "Weight":"46",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Tantalum",
+        "Symbol":"Ta",
+        "Atomic-Number":"73",
+        "Weight":"34",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Tungsten",
+        "Symbol":"W",
+        "Atomic-Number":"74",
+        "Weight":"103",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Rhenium",
+        "Symbol":"Re",
+        "Atomic-Number":"75",
+        "Weight":"48",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Osmium",
+        "Symbol":"Os",
+        "Atomic-Number":"76",
+        "Weight":"27",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Iridium",
+        "Symbol":"Ir",
+        "Atomic-Number":"77",
+        "Weight":"44",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Platinum",
+        "Symbol":"Pt",
+        "Atomic-Number":"78",
+        "Weight":"94",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Gold",
+        "Symbol":"Au",
+        "Atomic-Number":"79",
+        "Weight":"44",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Mercury",
+        "Symbol":"Hg",
+        "Atomic-Number":"80",
+        "Weight":"204",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Rutherfordium",
+        "Symbol":"Rf",
+        "Atomic-Number":"104",
+        "Weight":"1",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Dubnium",
+        "Symbol":"Db",
+        "Atomic-Number":"105",
+        "Weight":"1",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Seaborgium",
+        "Symbol":"Sg",
+        "Atomic-Number":"106",
+        "Weight":"1",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Bohrium",
+        "Symbol":"Bh",
+        "Atomic-Number":"107",
+        "Weight":"1",
+        "Type":"Transition metals"
+    },
+    {
+        "Element":"Hassium",
+        "Symbol":"Hs",
+        "Atomic-Number":"108",
+        "Weight":"1",
+        "Type":"Transition metals"
+    }
+
+]

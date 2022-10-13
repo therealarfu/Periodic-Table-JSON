@@ -1,0 +1,46 @@
+[
+
+    {
+        "Element":"Beryllium",
+        "Symbol":"Be",
+        "Atomic-Number":"4",
+        "Weight":"42",
+        "Type":"Alkaline earth metals"
+    },
+    {
+        "Element":"Magnesium",
+        "Symbol":"Mg",
+        "Atomic-Number":"12",
+        "Weight":"303",
+        "Type":"Alkaline earth metals"
+    },
+    {
+        "Element":"Calcium",
+        "Symbol":"Ca",
+        "Atomic-Number":"20",
+        "Weight":"143",
+        "Type":"Alkaline earth metals"
+    },
+    {
+        "Element":"Strontium",
+        "Symbol":"Sr",
+        "Atomic-Number":"38",
+        "Weight":"50",
+        "Type":"Alkaline earth metals"
+    },
+    {
+        "Element":"Barium",
+        "Symbol":"Ba",
+        "Atomic-Number":"56",
+        "Weight":"140",
+        "Type":"Alkaline earth metals"
+    },
+    {
+        "Element":"Radium",
+        "Symbol":"Ra",
+        "Atomic-Number":"88",
+        "Weight":"2",
+        "Type":"Alkaline earth metals"
+    }
+
+]

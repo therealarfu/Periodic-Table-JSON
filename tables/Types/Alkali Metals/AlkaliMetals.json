@@ -1,0 +1,46 @@
+[
+
+    {
+        "Element":"Lithium",
+        "Symbol":"Li",
+        "Atomic-Number":"3",
+        "Weight":"169",
+        "Type":"Alkali metals"
+    },
+    {
+        "Element":"Sodium",
+        "Symbol":"Na",
+        "Atomic-Number":"11",
+        "Weight":"803",
+        "Type":"Alkali metals"
+    },
+    {
+        "Element":"Potassium",
+        "Symbol":"K",
+        "Atomic-Number":"19",
+        "Weight":"348",
+        "Type":"Alkali metals"
+    },
+    {
+        "Element":"Rubidium",
+        "Symbol":"Rb",
+        "Atomic-Number":"37",
+        "Weight":"25",
+        "Type":"Alkali metals"
+    },
+    {
+        "Element":"Caesium",
+        "Symbol":"Cs",
+        "Atomic-Number":"55",
+        "Weight":"45",
+        "Type":"Alkali metals"
+    },
+    {
+        "Element":"Francium",
+        "Symbol":"Fr",
+        "Atomic-Number":"87",
+        "Weight":"1",
+        "Type":"Alkali metals"
+    }
+
+]

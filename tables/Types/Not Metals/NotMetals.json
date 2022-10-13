@@ -1,0 +1,81 @@
+[
+
+    {
+        "Element":"Hydrogen",
+        "Symbol":"H",
+        "Atomic-Number":"1",
+        "Weight":"40,796",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Carbon",
+        "Symbol":"C",
+        "Atomic-Number":"6",
+        "Weight":"40,112",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Nitrogen",
+        "Symbol":"N",
+        "Atomic-Number":"7",
+        "Weight":"20,185",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Oxygen",
+        "Symbol":"O",
+        "Atomic-Number":"8",
+        "Weight":"32,620",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Fluorine",
+        "Symbol":"F",
+        "Atomic-Number":"9",
+        "Weight":"3,865",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Phosphorus",
+        "Symbol":"P",
+        "Atomic-Number":"15",
+        "Weight":"2,961",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Sulfur",
+        "Symbol":"S",
+        "Atomic-Number":"16",
+        "Weight":"5,831",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Chlorine",
+        "Symbol":"Cl",
+        "Atomic-Number":"17",
+        "Weight":"6,109",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Selenium",
+        "Symbol":"Se",
+        "Atomic-Number":"34",
+        "Weight":"234",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Bromine",
+        "Symbol":"Br",
+        "Atomic-Number":"35",
+        "Weight":"2,811",
+        "Type":"Not metals"
+    },
+    {
+        "Element":"Iodine",
+        "Symbol":"I",
+        "Atomic-Number":"53",
+        "Weight":"872",
+        "Type":"Not metals"
+    }
+
+]

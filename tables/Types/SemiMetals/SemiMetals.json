@@ -1,0 +1,53 @@
+[
+
+    {
+        "Element":"Boron",
+        "Symbol":"B",
+        "Atomic-Number":"5",
+        "Weight":"1,065",
+        "Type":"Semimetals"
+    },
+    {
+        "Element":"Silicon",
+        "Symbol":"Si",
+        "Atomic-Number":"14",
+        "Weight":"1,055",
+        "Type":"Semimetals"
+    },
+    {
+        "Element":"Germanium",
+        "Symbol":"Ge",
+        "Atomic-Number":"32",
+        "Weight":"73",
+        "Type":"Semimetals"
+    },
+    {
+        "Element":"Arsenic",
+        "Symbol":"As",
+        "Atomic-Number":"33",
+        "Weight":"140",
+        "Type":"Semimetals"
+    },
+    {
+        "Element":"Antimony",
+        "Symbol":"Sb",
+        "Atomic-Number":"51",
+        "Weight":"102",
+        "Type":"Semimetals"
+    },
+    {
+        "Element":"Tellurium",
+        "Symbol":"Te",
+        "Atomic-Number":"52",
+        "Weight":"89",
+        "Type":"Semimetals"
+    },
+    {
+        "Element":"Astatine",
+        "Symbol":"At",
+        "Atomic-Number":"85",
+        "Weight":"1",
+        "Type":"Semimetals"
+    }
+
+]

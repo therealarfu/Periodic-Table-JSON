@@ -1,0 +1,46 @@
+[
+
+    {
+        "Element":"Helium",
+        "Symbol":"He",
+        "Atomic-Number":"2",
+        "Weight":"2",
+        "Type":"Noble gases"
+    },
+    {
+        "Element":"Neon",
+        "Symbol":"Ne",
+        "Atomic-Number":"10",
+        "Weight":"2",
+        "Type":"Noble gases"
+    },
+    {
+        "Element":"Argon",
+        "Symbol":"Ar",
+        "Atomic-Number":"18",
+        "Weight":"2",
+        "Type":"Noble gases"
+    },
+    {
+        "Element":"Krypton",
+        "Symbol":"Kr",
+        "Atomic-Number":"36",
+        "Weight":"4",
+        "Type":"Noble gases"
+    },
+    {
+        "Element":"Xenon",
+        "Symbol":"Xe",
+        "Atomic-Number":"54",
+        "Weight":"17",
+        "Type":"Noble gases"
+    },
+    {
+        "Element":"Radon",
+        "Symbol":"Rn",
+        "Atomic-Number":"86",
+        "Weight":"1",
+        "Type":"Noble gases"
+    }
+
+]
