@@ -35,7 +35,6 @@ An JSON file of the Periodic Table
 | Group | Only for (Position) | String |
 | Period | Only for (Position) | String |
 | Family | Only for (Position) | String |
-| Electrons | Only for (Electrons) | String |
 | Details | Not avaliable for Compounds | Array |
 
 > Details
