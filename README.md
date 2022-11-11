@@ -32,7 +32,7 @@ An JSON file of the Periodic Table
 | Symbol | Returns a symbol of element| String |
 | Atomic-Number | Returns a atomic number of element | Integer |
 | Weight | Returns a weight of element | Integer |
-| Group | Only for (Position) | String or Integer |
+| Group | Only for (Position) | Integer |
 | Period | Only for (Position) | Integer |
 | Family | Only for (Position) | String |
 | Details | Not avaliable for Compounds | Array |
