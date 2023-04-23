@@ -9,7 +9,7 @@
 <br/>
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](../../actions)
 
-# Periodic-Table-DB
+# Periodic-Table-JSON
 An JSON file of the Periodic Table
 
 > A database with all the information about each element of the periodic table.
